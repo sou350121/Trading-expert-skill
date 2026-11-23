@@ -9,6 +9,7 @@ Use the Trading-Handbook as a map of public quantitative trading research. Treat
 
 ## Find the evidence
 
+- For recent reading, use HANDBOOK_CURRENT.md in references when present and its commit matches the index. Treat the selected excerpts as Handbook text, and verify primary claims separately.
 - Search [HANDBOOK_INDEX.md](references/HANDBOOK_INDEX.md) by paper, method, benchmark, or path. Follow the relevant commit-pinned links. Older material in the snapshot remains eligible.
 - Use [handbook-manifest.json](references/handbook-manifest.json) when checking the snapshot commit or exact blob hashes. Verify that the index and manifest name the same commit before using them as one snapshot. An index date, version, or hash establishes provenance only. Use the source itself to establish what was published, measured, and observed.
 - Prefer the original paper version, table, or public study artifacts for empirical claims. Cite Handbook synthesis and other secondary coverage as such. Label your own inferences. If the index or original is unavailable, use the relevant public links in [RESEARCH_CHECKS.md](references/RESEARCH_CHECKS.md) or the [public Handbook](https://github.com/sou350121/Trading-Handbook) and say what you could verify. The workflow needs no additional paid model or server.

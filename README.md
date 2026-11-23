@@ -10,6 +10,12 @@
 - 比較「R&D-Agent 與 Alpha101 哪個在 FactorBench 較好？」會按指標、樣本、成本與證據限制回答。
 - 適用範圍為唯讀量化方法研究。一般除錯、即時股價、下單、憑證管理、自動監控與發布由其他流程處理。
 
+## 每日來源更新
+
+每天 22:10（Asia/Shanghai）核對公開 Handbook 的 main。首次建立導覽或有合格研究文件變更時，由既有 DeepSeek Flash 選出最多三條閱讀節選。程式核對節選與固定版本的來源，並回讀發布結果。沒有變更時不呼叫模型；核驗失敗時保留上一版。
+
+日期僅表示來源同步，保留研究本身的證據邊界。手動安裝的技能副本可透過重新複製完整 skill/ 更新。
+
 ## 維護者手動更新索引
 
 需備妥 Python 3.10+、Git、本機 Trading-Handbook checkout，以及 GitHub 公開 API 的連線。同步程式每次向 GitHub 確認公開 `main` 的 commit。若本機缺少該 commit，先在 Handbook checkout 以 Git 取得公開 `main`，再重跑同步。工作樹和本機 HEAD 可停在任意版本。
