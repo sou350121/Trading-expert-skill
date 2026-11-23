@@ -1,0 +1,2021 @@
+{
+  "commit": "863df5d1b939032f5464ace391806a6981b204ca",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "d77d53fb8db9a17990cdee944427f27634be56af148edf4d58a58b94aab3fc25"
+    },
+    {
+      "path": "benchmarks/overview.md",
+      "sha256": "c6f9d442f8baa4dc6f631c98e4e49ebebef116543cd69ed33c01b4e30f144ffb"
+    },
+    {
+      "path": "bridge-to-vla/overview.md",
+      "sha256": "61a99c0ae3f540bee3ec5d84c46540d7505f95916e3f63a78ef7de13d28f2a44"
+    },
+    {
+      "path": "cheat-sheet/ontology.md",
+      "sha256": "364c097f5fe5033084e70495c8e94965696a3ff9f4f46ba828ef69fea8519a95"
+    },
+    {
+      "path": "cheat-sheet/overview.md",
+      "sha256": "0edfcaf56456c0988724b5baeae82d5d581b34af847bace52f960516d9fda7d4"
+    },
+    {
+      "path": "cheat-sheet/seminal-canon.md",
+      "sha256": "cfc36ede713aca7069c560dabf0c13a957b1fd0457c90108f8fb0d9cf88cad97"
+    },
+    {
+      "path": "cheat-sheet/timeline.md",
+      "sha256": "8717d38596d771362a83d9a972874c9bc619ee67775bec48990a2a1c0e491104"
+    },
+    {
+      "path": "companies/overview.md",
+      "sha256": "258a617950dfa34fe7d63b5290e9904d0989d66fc101713db9160109374765fd"
+    },
+    {
+      "path": "crossing/autoresearch-vs-preregistration/overview.md",
+      "sha256": "db11f0f6d43e095e307a820015b55d44e46174fcc2ae4bca50079db0606db9de"
+    },
+    {
+      "path": "crossing/explicit-factors-vs-e2e/overview.md",
+      "sha256": "ab446fc353b18cac833478a3573daf1d1fd0125d609a4cd643f0e5492caa3d55"
+    },
+    {
+      "path": "crossing/human-in-loop-vs-autonomous-agent/overview.md",
+      "sha256": "9c43a5ffd6214d58317487a6efab22c79144131bc9e6b561c596c6284c534968"
+    },
+    {
+      "path": "crossing/llm-reasoning-vs-ts-baselines/overview.md",
+      "sha256": "5fa32609cd27363cc804d71aa53f3cb223f78b78f06640f1fd2ff6f39e122979"
+    },
+    {
+      "path": "crossing/overview.md",
+      "sha256": "e09a1246e21c2c0e834eff4547e03632e49a40a4da44972c504f3bf6b9ade679"
+    },
+    {
+      "path": "crossing/predict-then-optimize-vs-end-to-end/overview.md",
+      "sha256": "24a9965480fe3a92d93f3e2ae324c52e25bd373f9b60de678b5225c7fd5e0175"
+    },
+    {
+      "path": "crossing/static-graph-vs-dynamic-flow/overview.md",
+      "sha256": "1e41e4e97756e24ce24299bd2942605967ebc5e158339d9dc6f6408c36d2f380"
+    },
+    {
+      "path": "crossing/supervised-vs-rl/overview.md",
+      "sha256": "6392537dad47d034e33f518eebe34780e14538eb3b747e663daca02d199fb30f"
+    },
+    {
+      "path": "deployment/github_engineering_notes.md",
+      "sha256": "46de05516623c00b8d74113da7f9c6d22ebeb60c43f8a590e3de992c2292e32a"
+    },
+    {
+      "path": "deployment/overview.md",
+      "sha256": "aa7408b6cbbe7109ab376e840cfff1cd9412c133f0bef24f5b412a1b46268b2d"
+    },
+    {
+      "path": "foundations/causal-structural/art-298.md",
+      "sha256": "c0e7b390ee905c7d0d74b7140a6678bec374b58fa65b08ad6f7b94e65274fea9"
+    },
+    {
+      "path": "foundations/causal-structural/art-318.md",
+      "sha256": "c788f347e7c8afb13c5f06dae0c0c6f55786d8ccd7101147a2bb8c6260b02aa3"
+    },
+    {
+      "path": "foundations/causal-structural/art-324.md",
+      "sha256": "80bb758674bdca503f6063dfc65114a49d70a317d5ed1010ff6bd5e7df44bf8d"
+    },
+    {
+      "path": "foundations/causal-structural/art-57.md",
+      "sha256": "d7031ea82eb777943581a4cc9554b1767e822c3477d25ecfb8da55c103df7a63"
+    },
+    {
+      "path": "foundations/causal-structural/causalstock.md",
+      "sha256": "c7eff6a78168f122abb2bb2e2b320199302c3558e5e631dc5b6e040ea5df1631"
+    },
+    {
+      "path": "foundations/causal-structural/convex-surrogate-contextual-pricing.md",
+      "sha256": "2c2a87522f0c0b7e81a9289a619abc1b70ca0f024df4ea71c1625a0c474ebd0c"
+    },
+    {
+      "path": "foundations/causal-structural/csht.md",
+      "sha256": "3fd557fd343515b58e57f6bb2f1df78959d524e4e5f2f34e6ee4b8b06580a133"
+    },
+    {
+      "path": "foundations/causal-structural/overview.md",
+      "sha256": "c5cf4e991bd6a3e131693f5502d27ee740cc798b305315cee1d967561f46f236"
+    },
+    {
+      "path": "foundations/causal-structural/regime-switching-pricing-kernel.md",
+      "sha256": "281b6418e1bd86478e29549f57257f6faceff03924f22cbf587cb275a0aad47a"
+    },
+    {
+      "path": "foundations/causal-structural/seer.md",
+      "sha256": "0aa3138191b8b51a6dd5c9ac4eff92bab00962bf15ef9ea7e0ce7b14ce136b04"
+    },
+    {
+      "path": "foundations/causal-structural/varlingam.md",
+      "sha256": "8dba39b3ee52c59ab6ba00c2473fbfc7bac43f163ec1e642b5408c478587809c"
+    },
+    {
+      "path": "foundations/data-generation-augmentation/art-245.md",
+      "sha256": "2f69ca4ca9b6f947a9695d7f76d82bc57eefeea4dbf8d08aa9e13bbb305b8113"
+    },
+    {
+      "path": "foundations/data-generation-augmentation/art-364.md",
+      "sha256": "32ff6289ec40c18b17c33a91f111ab343808d124a9ebf3ebb35cbb496810a85e"
+    },
+    {
+      "path": "foundations/data-generation-augmentation/diffsformer.md",
+      "sha256": "0547ce25a92669b376213a93b39072a0b96afea5fdc753e2e2e74805a7a67f15"
+    },
+    {
+      "path": "foundations/data-generation-augmentation/dsi.md",
+      "sha256": "396e310e48a442c925fd6466b717d9b75e97fe20865ac2469bed6192918e6240"
+    },
+    {
+      "path": "foundations/data-generation-augmentation/gaf-cnn.md",
+      "sha256": "04d9d54fc1f69467af4fe3a0d1c4209894129c182d6af176cdffcc56980c9fc9"
+    },
+    {
+      "path": "foundations/data-generation-augmentation/market-gan.md",
+      "sha256": "be3dc670e48663a0a0300be2190b29f29de013a9f585951d94e41f2badabcaf4"
+    },
+    {
+      "path": "foundations/data-generation-augmentation/overview.md",
+      "sha256": "8dbe326dca3384f915611e3f889e8d3198f437be558487032fe9ec822c2026dd"
+    },
+    {
+      "path": "foundations/data-generation-augmentation/saits.md",
+      "sha256": "be513f207c9bb8992b1df1e45cb839376bb5e77ceda281a1a4bea03a5db87c1e"
+    },
+    {
+      "path": "foundations/evaluation-benchmarks/ai-alpha.md",
+      "sha256": "2abde942153d43b3981d8e8781eeffa6d6d8070b6bb2fa9ed5d06938a80ffcfb"
+    },
+    {
+      "path": "foundations/evaluation-benchmarks/alphaeval.md",
+      "sha256": "840dd6e667288741ba00a14b616eb5fe2fb8f381460e96c0780eded8bdcb8d17"
+    },
+    {
+      "path": "foundations/evaluation-benchmarks/art-279.md",
+      "sha256": "348705ebb7d69a90ca4d537bdc797ac24a0290e5837cf0def4330434772ae68d"
+    },
+    {
+      "path": "foundations/evaluation-benchmarks/art-33.md",
+      "sha256": "ee706f0fd48ec63fd622dc25192f8556df267ebc270023122bcd5158b2db3206"
+    },
+    {
+      "path": "foundations/evaluation-benchmarks/art-337.md",
+      "sha256": "08029f1a304e34137072b4ebe0a80ea0407d20d117ce26f1e3c94ad87ad4edff"
+    },
+    {
+      "path": "foundations/evaluation-benchmarks/art-408.md",
+      "sha256": "508f085d08294fe9223c095d14d3c4c4ab0e5564d5c1ba9841faf29b056827f9"
+    },
+    {
+      "path": "foundations/evaluation-benchmarks/art-436.md",
+      "sha256": "06d0c2de6d28af3f1b4cc1b242fd731f14c372bdd639c124d39b405dfff25362"
+    },
+    {
+      "path": "foundations/evaluation-benchmarks/base-rate-honest-benchmark.md",
+      "sha256": "64c341c2e93831b926fa60d26eb4b660156447a7e2a845b501d32d1f8d5b2f5e"
+    },
+    {
+      "path": "foundations/evaluation-benchmarks/bayes-stein-shrinkage.md",
+      "sha256": "399156fe075f949ca3259bcf797fa16ede8e469197b623301a8d89b3862d9156"
+    },
+    {
+      "path": "foundations/evaluation-benchmarks/cost-aware-execution-filter.md",
+      "sha256": "4eadc81b1cbffacf45f3c9b7485c22b1c78bdd1d87814cd9309f8efc10ef3634"
+    },
+    {
+      "path": "foundations/evaluation-benchmarks/factorbench.md",
+      "sha256": "d725bf8923b6d052d1aaff7021d3b8d8f0a028f00771912cc2f255597b579476"
+    },
+    {
+      "path": "foundations/evaluation-benchmarks/finautorubric.md",
+      "sha256": "c01a9d3173425e436fa085e07e044d374955860fb76e6695c1630d127157ed7c"
+    },
+    {
+      "path": "foundations/evaluation-benchmarks/finsearchcomp.md",
+      "sha256": "75520207ba5c495688a945bb176f61f8f4316fa728598bd1c4af8688567bf49d"
+    },
+    {
+      "path": "foundations/evaluation-benchmarks/finstressts.md",
+      "sha256": "9bd6aeba522ff6118dd7d9c03aed9b214038f046c8136925f5c819030cf8a56e"
+    },
+    {
+      "path": "foundations/evaluation-benchmarks/fintsb.md",
+      "sha256": "50776ee688ca7becde79c28c902b1bf5494e6b60509671163d040a680adbd0d1"
+    },
+    {
+      "path": "foundations/evaluation-benchmarks/fintsbridge.md",
+      "sha256": "dd0846682b04ca47aa3a0240a645fe7a07e2d587a8da812077ae30297ef1ddb1"
+    },
+    {
+      "path": "foundations/evaluation-benchmarks/ktd-fin.md",
+      "sha256": "3c1ce9012a36c5156d751fda68b1d40cc57b4b751ca4d8bc3b45c1628ab012d3"
+    },
+    {
+      "path": "foundations/evaluation-benchmarks/lightquant.md",
+      "sha256": "8f386657b543f60a44e5c7c2c40a9a24b2184279909d5a6834ba6dd212201bff"
+    },
+    {
+      "path": "foundations/evaluation-benchmarks/liveoption-qfinzero.md",
+      "sha256": "41a4ca78fe5e811ec32e71d6344f0506a1bf0bb0b7d7c793bf17d463e4ca749f"
+    },
+    {
+      "path": "foundations/evaluation-benchmarks/lob-bench.md",
+      "sha256": "fb10c86f5fe6c1bbf117617944055099974eaeee8c688407604f5d65c3549ecb"
+    },
+    {
+      "path": "foundations/evaluation-benchmarks/lobcast.md",
+      "sha256": "6bda1b2e59d16922507a69d330ef8e76fd5c052aa037be99b532cb377d22ff23"
+    },
+    {
+      "path": "foundations/evaluation-benchmarks/modernfinbert-har-x.md",
+      "sha256": "4bc1205bf691be9842a3e1cdbe60968ea0c1deff943f830631af0faefc781191"
+    },
+    {
+      "path": "foundations/evaluation-benchmarks/nolbert.md",
+      "sha256": "7d2c1954d4bce83b7a67387f6dc452b0979ffd38afb561fb5bd62cc71d270d95"
+    },
+    {
+      "path": "foundations/evaluation-benchmarks/overview.md",
+      "sha256": "e176fc406ef3097f52040deaec5fb26126c58eab43c1730f39caf190469777e5"
+    },
+    {
+      "path": "foundations/evaluation-benchmarks/quantbench.md",
+      "sha256": "7abb9740121d7af74a4b106df2789de4439f8cf635fbc16d6ccd2ccaaa7e41e4"
+    },
+    {
+      "path": "foundations/evaluation-benchmarks/retrospective-analysis-of-team-following-trading-profitability-in-pumpfun-meme-coins-using-funding-networks.md",
+      "sha256": "e68f4112c4e4875bc7d7b3ac997f4e03fcad7ab1f027527f5fd2f74649deacdb"
+    },
+    {
+      "path": "foundations/evaluation-benchmarks/robustipy.md",
+      "sha256": "51ab271f5e4a72602c29e283e75ea74cec602adff0c4f0c1e814b6ce69f72e22"
+    },
+    {
+      "path": "foundations/evaluation-benchmarks/tfb.md",
+      "sha256": "9eff467d5d3aeb16207272aee20a1ce1e8194e99f48f8d0aa2496fee3c8f70a9"
+    },
+    {
+      "path": "foundations/evaluation-benchmarks/walk-forward-analysis.md",
+      "sha256": "49ca77eaa73db0d18d3e4569e9b55cb7b5dad264f24e5e9c0764eb91d1e222bd"
+    },
+    {
+      "path": "foundations/factor-mining/alpha-gpt.md",
+      "sha256": "18cf76bb9f50365980f9f798cabc0a16ed4f39802bab53e177adb6aad81d908a"
+    },
+    {
+      "path": "foundations/factor-mining/alpha-r1.md",
+      "sha256": "f3541990e0a22bf06e678365343ab896e501da0fb7cf38789810b69f8fdfe15c"
+    },
+    {
+      "path": "foundations/factor-mining/alpha-vs.md",
+      "sha256": "b6c919a1c7eda89c09f828b15ea8874dc67a664e7445496a717a5217c28e81f2"
+    },
+    {
+      "path": "foundations/factor-mining/alpha.md",
+      "sha256": "8686f5c891d34b587fe9cf102701c1125e3e9fc25b20b9ad629e4d8cd4357296"
+    },
+    {
+      "path": "foundations/factor-mining/alpha2.md",
+      "sha256": "ded602a9445d6dee55e3460abd9b4ab601580c8238a2a870c5bd4b43f8e2a52c"
+    },
+    {
+      "path": "foundations/factor-mining/alphaagent.md",
+      "sha256": "07d92602323b7732eddf7ab7a95c220e3cf1bbc8d7cd3e1019dc8ddfded0a17a"
+    },
+    {
+      "path": "foundations/factor-mining/alphaagentevo.md",
+      "sha256": "4b117539545f732324cab77d0eb3a70c75283f03114a2f46e3ad2427685cc24b"
+    },
+    {
+      "path": "foundations/factor-mining/alphaevolve.md",
+      "sha256": "a45333d0a0c164da58a57f46505781049b6de8fd0540c74caf3e07caabc040ce"
+    },
+    {
+      "path": "foundations/factor-mining/alphaforge.md",
+      "sha256": "71da7f0c7cd26e7b0e8398bb30fd4f407fb8486d149376a079299d476ab7d999"
+    },
+    {
+      "path": "foundations/factor-mining/alphaqcm.md",
+      "sha256": "32f4e43c736069e383698650697ee0ffafde3dcc97d76d702436fd8f126de1e6"
+    },
+    {
+      "path": "foundations/factor-mining/alphasage.md",
+      "sha256": "ab62af8d8049ca7c404fbc31c320b16ba5eae3427cf4c4d5189bb9929e60adea"
+    },
+    {
+      "path": "foundations/factor-mining/alphasharpe.md",
+      "sha256": "fe43b0b77f2c37c9c55d93031b2587b2f869391af5334eb39021b557b2adcf9a"
+    },
+    {
+      "path": "foundations/factor-mining/art-107.md",
+      "sha256": "b18835f728bbbe3ea250c38746bb232f7ae41921b107b319bdb3ab6e1ccad26f"
+    },
+    {
+      "path": "foundations/factor-mining/art-121.md",
+      "sha256": "e0f32d92d27922475e8ef630f6a5fd1175007382dd1cd93c599c1b0748a4662f"
+    },
+    {
+      "path": "foundations/factor-mining/art-21.md",
+      "sha256": "227c5a45b1a3c22f2f39c4d323172bd7b207de3f95146190e17480f005fce998"
+    },
+    {
+      "path": "foundations/factor-mining/art-225.md",
+      "sha256": "4b8511de80c63866b48882460a2a32e03b6bf386b0e49a879a6ce863dd7bb4e3"
+    },
+    {
+      "path": "foundations/factor-mining/art-320.md",
+      "sha256": "d7bcdc44790f2281a51f17316cec865570b4b1b08db20cf09091f65b3f3de67b"
+    },
+    {
+      "path": "foundations/factor-mining/art-344.md",
+      "sha256": "a780922e11e086c1e6e7dfabe03f142f9c891812024b83caafbf390406edafae"
+    },
+    {
+      "path": "foundations/factor-mining/art-351.md",
+      "sha256": "66c530384531f732689a0abe07f33b834f1fd6c36ff892774bd02366f0cbb62d"
+    },
+    {
+      "path": "foundations/factor-mining/art-354.md",
+      "sha256": "4db78d29de63924d041c20e1b99427fd788481e4c9823a8e8cad883ec5198551"
+    },
+    {
+      "path": "foundations/factor-mining/art-435.md",
+      "sha256": "4b55de7ed6f529bd0b56ff4399abd18f7467f9b8d9a710f621ce2803bfcc7efb"
+    },
+    {
+      "path": "foundations/factor-mining/attention-factor-model.md",
+      "sha256": "1843a7295e32fa08d34140353035423bf5d65245546eac6cf3dc269ae0291f10"
+    },
+    {
+      "path": "foundations/factor-mining/behavioral-factors-a-share.md",
+      "sha256": "98611c9b2a151b03ca6989815104e16247da30fdfa60fc4ec9307259ea90ccf3"
+    },
+    {
+      "path": "foundations/factor-mining/brt-nn.md",
+      "sha256": "34e7153a76ae49a176b8a1c42f5914608043e73b721daffbf8a5c31c12aa212a"
+    },
+    {
+      "path": "foundations/factor-mining/chatterjee.md",
+      "sha256": "3bff7b4d9b1887d8103c8c3a49a6ba5de5ee375659504927daea26cd2ae42372"
+    },
+    {
+      "path": "foundations/factor-mining/cogalpha.md",
+      "sha256": "5d07d30451b1d8fa47d611a45cdd9c11b2b9c42c3efa8a97817fc078e0c6ec6a"
+    },
+    {
+      "path": "foundations/factor-mining/comprehensive-crowded-factor.md",
+      "sha256": "75c9e03f29e1c868c051cbbd2f3842d826f50c5011a5e36e6dcb84f9ede4f3ec"
+    },
+    {
+      "path": "foundations/factor-mining/cosmosalpha.md",
+      "sha256": "7e6c9ba401f4eeea31263c4779b0f1f29f24d3110fe3e2254f33195f00bef8a1"
+    },
+    {
+      "path": "foundations/factor-mining/crypto-ugly-edge-alpha.md",
+      "sha256": "0d1f261fb1a105090bd7fc463dba918e9e42be2770aa015756ab416e542649c4"
+    },
+    {
+      "path": "foundations/factor-mining/deepsupp.md",
+      "sha256": "5b015f938f49c31d667d7fb66f892e9509927a8fdbf6866fc1ae94be41f8395e"
+    },
+    {
+      "path": "foundations/factor-mining/empirical-bayes.md",
+      "sha256": "6c07b22bbf5a647560849f7b56c745e809e81bbbdaf891adcc8055c52dd47d22"
+    },
+    {
+      "path": "foundations/factor-mining/factor-asymmetry-bear-market.md",
+      "sha256": "17285172e1f6de334724893f8f9c2e3ce725a95087d50f3f47eb7a9dc0aa4d2b"
+    },
+    {
+      "path": "foundations/factor-mining/factor-zoo-vs-peer-review.md",
+      "sha256": "c3da2769e853435690d6b3abd21b486c8286e5e72c0cc42dac7b2a8420c83782"
+    },
+    {
+      "path": "foundations/factor-mining/factormoe.md",
+      "sha256": "4c4f655e346f4ea258d44798734d6aec7ab820bfec238f00d580495a860cafe9"
+    },
+    {
+      "path": "foundations/factor-mining/fama-french.md",
+      "sha256": "c898185fd2989576b07d3842d842a61e47422561074a30be213a0eeed48b8207"
+    },
+    {
+      "path": "foundations/factor-mining/fama-macbeth.md",
+      "sha256": "121ca6686824087adbdc4bdceded50bc94d6a2fe6f8f6ce822a09f54b6464c27"
+    },
+    {
+      "path": "foundations/factor-mining/finbert-xgboost-shap.md",
+      "sha256": "8c71c210e498c9b31e996a4dea3a55960c7daa93120ab78b8530ffb3550abe90"
+    },
+    {
+      "path": "foundations/factor-mining/fra.md",
+      "sha256": "b460b4cc6b3b6bbea087c0573a7eac4e7269440dfe2cc6246f298118e1b5aee0"
+    },
+    {
+      "path": "foundations/factor-mining/fund-manager-expectation-asymmetry.md",
+      "sha256": "298c299477446a4b8ccd2dbd09e4d502762b6fa0abb67a786570718ccef3a536"
+    },
+    {
+      "path": "foundations/factor-mining/hf9-post-adaptive-lasso.md",
+      "sha256": "4d2dafaf1e4d6f0980326e19bb113af919036e706fcf83bb97302d1664d2fc26"
+    },
+    {
+      "path": "foundations/factor-mining/hppo-to.md",
+      "sha256": "f3486cdc1d3cf9af423be4dce042ed18af3f8e38f4848e112cea7ec544a66b1e"
+    },
+    {
+      "path": "foundations/factor-mining/lineageevo.md",
+      "sha256": "79313ec451f4cea35c89da08f6522786f3332c34a90adfaa5848fb7c4e0f4f86"
+    },
+    {
+      "path": "foundations/factor-mining/llm-factor-lab.md",
+      "sha256": "6c7ac895a02ba2b015442d50277e955cbc24ac0e1f9f593e22738cd5e2cc3eca"
+    },
+    {
+      "path": "foundations/factor-mining/llm-mcts-alpha-mining.md",
+      "sha256": "f627491936d232e1d263935af20d272fa5c5ad7b78485723c884786f48db4bcc"
+    },
+    {
+      "path": "foundations/factor-mining/miqubo.md",
+      "sha256": "858d2304cf16606d80601f6a4d13f777f1e41118882e237898247883e4cc23c8"
+    },
+    {
+      "path": "foundations/factor-mining/mixture-decoupled.md",
+      "sha256": "c9b07ebe0743970592efa9ed99680efac87d3dc4fc2ffe2d1156b77da42693ab"
+    },
+    {
+      "path": "foundations/factor-mining/mlp.md",
+      "sha256": "1657e863ee941180074e37f8d28cad29273448a9ec01787bfd712c49437aba61"
+    },
+    {
+      "path": "foundations/factor-mining/neuralbeta.md",
+      "sha256": "f579b5a57db539b82c5ad50e23f6a94cbb1331bdeae27e78770db9444059f853"
+    },
+    {
+      "path": "foundations/factor-mining/neuralfactors.md",
+      "sha256": "38a302c11f1f44265a12a276a1342207bfab5e4d19b162c64c03b737d7fc73c9"
+    },
+    {
+      "path": "foundations/factor-mining/orca.md",
+      "sha256": "87e2d9c37c69d92abd4e036e233ee564e3306818687d602e7a196bfa7e32238d"
+    },
+    {
+      "path": "foundations/factor-mining/overview.md",
+      "sha256": "2b3774e259553fd5a4a0d1de4784f8fd125abab74c8f087084d1534e8fb04525"
+    },
+    {
+      "path": "foundations/factor-mining/persistent-homology-multipersistence-belief-state-features.md",
+      "sha256": "8f1abbaf8ce12ffb806d5f0b8448226ed4e2d137858feeb1386122b2c491db82"
+    },
+    {
+      "path": "foundations/factor-mining/proj-sue.md",
+      "sha256": "969c9a0a9263614fc2dd02ae954164893513afa4c3d1a79790cebddb8d279fab"
+    },
+    {
+      "path": "foundations/factor-mining/ptk.md",
+      "sha256": "678e0ad94dbc8d2b14a78412f9019f86d6314a470da84ed12c2748c0091025b7"
+    },
+    {
+      "path": "foundations/factor-mining/qbx.md",
+      "sha256": "24d6b499fdbc04489d4fac875186f001605f2b61aa2748fe8080b0be4c42327f"
+    },
+    {
+      "path": "foundations/factor-mining/qfr.md",
+      "sha256": "0da13e3f671ac26cd7407240a67f5ce4e60d7990c01423ca9584245234c2d24c"
+    },
+    {
+      "path": "foundations/factor-mining/quantpedia-ceo.md",
+      "sha256": "0fead26283449dfd42b921705821980c6235505078a77d6309aee09e8fe6d2d0"
+    },
+    {
+      "path": "foundations/factor-mining/realmlp.md",
+      "sha256": "70b8c4dc902e3ad0cdac50cca2d6d0ca0dd8511bb9c4092a1e796ce8d8e67670"
+    },
+    {
+      "path": "foundations/factor-mining/rsap-dfm.md",
+      "sha256": "af2a485083f50fae212cee17557f9c6db7dec3fcfcc63f072a832af9d11fbf50"
+    },
+    {
+      "path": "foundations/factor-mining/street-pe.md",
+      "sha256": "b9323462056c060c271d85a7d42f2cfbade990d59fe039673fefbcdfc406c983"
+    },
+    {
+      "path": "foundations/factor-mining/style-miner.md",
+      "sha256": "7e609e4e26a559ee91b506dc0424e3bc234947ea4fd50353b9580deb406d0bcf"
+    },
+    {
+      "path": "foundations/factor-mining/supervised-lexicon-learning.md",
+      "sha256": "0356039149aa3dfa5627909f8eaf92d818a8aaafaee7db6e719d85c77fa37cbf"
+    },
+    {
+      "path": "foundations/factor-mining/twma-resnet-trader.md",
+      "sha256": "7175cc21f62dd4513f8147d4afff6ea41bc972e25578affe46c669146470e411"
+    },
+    {
+      "path": "foundations/factor-mining/umi.md",
+      "sha256": "6352e1caf84c5a33dfa72898af1d413e3c5d0ea1457d4b2a068d1a8f159fe337"
+    },
+    {
+      "path": "foundations/factor-mining/unicorn-edge.md",
+      "sha256": "ed4b07fae0504f9b2fff75c5bb07ee47c09c9a09936ca872c2bacfea6672dd58"
+    },
+    {
+      "path": "foundations/factor-mining/xtab.md",
+      "sha256": "c273e97af74451f903a3edccda8c42e536f44a01377ce669cf2e833f156f2b90"
+    },
+    {
+      "path": "foundations/factor-mining/yale-oxford-informed-trading.md",
+      "sha256": "6335bacd4df1030baaa281b5e65c20e1c85e70e2bdec45ec301b90cda8b86b5d"
+    },
+    {
+      "path": "foundations/factor-mining/zookeeper.md",
+      "sha256": "36114e611402f168eefbbe8ff2faa948554d595dd92e6c45b5acdf54034beb5e"
+    },
+    {
+      "path": "foundations/graph-networks/arcus.md",
+      "sha256": "51f3a45bc2d80d4a6a45be15f7ef0213cab8399c63197a070e22540f804e21c6"
+    },
+    {
+      "path": "foundations/graph-networks/art-214.md",
+      "sha256": "7431eaf44231d16ab505a91512a9f7c44c5686664187db399b1f7a00fb8c52b0"
+    },
+    {
+      "path": "foundations/graph-networks/cograsp.md",
+      "sha256": "46e9aeff33471bdb8f54839ff023c31d1f0fe197af55d5f1f8c4e44e8d2a627d"
+    },
+    {
+      "path": "foundations/graph-networks/deltalag.md",
+      "sha256": "edf172f735711decf15e7f5fe90ab3c09949480cd43bcd41b3dd99da5e9ae0af"
+    },
+    {
+      "path": "foundations/graph-networks/dgnsde.md",
+      "sha256": "7f5b098adef92b0c01dc92cfb6e4cc345d64978157b2b9c846ce287759c0ca94"
+    },
+    {
+      "path": "foundations/graph-networks/dgrcl.md",
+      "sha256": "617fa37efdc89471a7b496acf936d48bb44ee1e9941389447cbe37bf4329be9b"
+    },
+    {
+      "path": "foundations/graph-networks/dins.md",
+      "sha256": "86da9d3720af2f3af6bd56cb4193b22071dc963b9c6548e299b82fed560215f9"
+    },
+    {
+      "path": "foundations/graph-networks/dishft-gnn.md",
+      "sha256": "713967e31177da08fc3e6b036c383fcfc83df5ebcef51d2b84413c7d6d6963f2"
+    },
+    {
+      "path": "foundations/graph-networks/find.md",
+      "sha256": "54b53789e2e9bade78002a7d52517e5e89455f737c38894a62521951fa1ca6df"
+    },
+    {
+      "path": "foundations/graph-networks/fingat.md",
+      "sha256": "814defda8567c1b4d825492aa0a0167fef27ce7ec43daa30ea91159c502a66d7"
+    },
+    {
+      "path": "foundations/graph-networks/fnirvar.md",
+      "sha256": "6e28a70322b5ff62a41cd20ab9372be72cc1848530c63128d451eb24d1099957"
+    },
+    {
+      "path": "foundations/graph-networks/fri.md",
+      "sha256": "bcdcb0ad63ade82a5cdb1e218afe94610e6ab3b1d353f90dd115140348373908"
+    },
+    {
+      "path": "foundations/graph-networks/galstm.md",
+      "sha256": "2fcfdf6a34409a1ebdd41cbf8bc30cddede83566ed9536f1a6b729f44cb8139d"
+    },
+    {
+      "path": "foundations/graph-networks/gat-cnnpred.md",
+      "sha256": "8ceee2146b446343b71f1a20e6b8dfed828f70e228c3583f0d81888d54c01503"
+    },
+    {
+      "path": "foundations/graph-networks/gatanalysts.md",
+      "sha256": "2d767d906b47676e33ea83c2038843a4a7e488797ab7e1e2fa0c385eb6c734db"
+    },
+    {
+      "path": "foundations/graph-networks/grafin-gen.md",
+      "sha256": "24d89de80e45063573d5a1b98e79ed7a337b9042ebe5a65257af997d17469eee"
+    },
+    {
+      "path": "foundations/graph-networks/hats.md",
+      "sha256": "ad152f1acb1a700abe932b87f74e07ac7a97c1d4f2bde71182317b96d9a059bb"
+    },
+    {
+      "path": "foundations/graph-networks/kgtransformer.md",
+      "sha256": "d7b7c71b6ba28860d9963c7182ec2e9cc19fb9af992b540d667de42adb379975"
+    },
+    {
+      "path": "foundations/graph-networks/mgdpr.md",
+      "sha256": "4703755d26b3fca101bba61865721f177cbd63f2d0005edcd0401455d5e307c6"
+    },
+    {
+      "path": "foundations/graph-networks/ml-gat.md",
+      "sha256": "9735e530cc532cbfc6fd2e85b9427d51da2106aba4c201c6ba709fda3de0f65f"
+    },
+    {
+      "path": "foundations/graph-networks/multi-gcgru.md",
+      "sha256": "41bcc937524d8bd0cba8bf09b519d998592bf994ec325aaa7a2761067198f0a9"
+    },
+    {
+      "path": "foundations/graph-networks/navis.md",
+      "sha256": "e12ccf93285398716a678d1befc1f573489bc1ed59464ff4e7f74fa69a68b664"
+    },
+    {
+      "path": "foundations/graph-networks/ngat.md",
+      "sha256": "fdb511e48817d1a02c857667814302fb0a7fdc6b90f2b793abf70b30ee66581d"
+    },
+    {
+      "path": "foundations/graph-networks/overview.md",
+      "sha256": "de62ebedc61d14c69ce24de710652de875596415971f4428d4cd42861fbba76a"
+    },
+    {
+      "path": "foundations/graph-networks/pdu.md",
+      "sha256": "4141b69a6a80a967101a67f346736e96732428bae3f0d4e2fc4d076a52ca2716"
+    },
+    {
+      "path": "foundations/graph-networks/rsr.md",
+      "sha256": "7fea567885070ddb1ea8dae8914f77d547fbd2336155ceaf95f899904a6d8b0c"
+    },
+    {
+      "path": "foundations/graph-networks/thgnn.md",
+      "sha256": "b5dc9e3631baefce61d8069dd9b1556dd20f2f181985aef0f96bb272272810fc"
+    },
+    {
+      "path": "foundations/llm-agentic/2-43-ai.md",
+      "sha256": "6aeb91c7e584e0429c91367a19edf6d80693b59f85a7eb0f14b3cbb28021e2f0"
+    },
+    {
+      "path": "foundations/llm-agentic/ace-trader.md",
+      "sha256": "cf05a7a5cbc3ea69df6cb871d7b99fc6c1c60077e0080ded90cd7f3c90e9ef70"
+    },
+    {
+      "path": "foundations/llm-agentic/agent-skills-socratic-tutor.md",
+      "sha256": "6535f7292a7f39b44ac9f6ee2303939ff3742ed96af92ad79128f0c9b3c2c809"
+    },
+    {
+      "path": "foundations/llm-agentic/agent-trading-arena.md",
+      "sha256": "a6cf405392fbebec10a3b74c2a02522517e430ae3983305f948fd26fbf984a46"
+    },
+    {
+      "path": "foundations/llm-agentic/agentic-sdlc.md",
+      "sha256": "d39d39de49d7a849eecc4be1394553b8172fdb35d27f8f6c932c7597e175232e"
+    },
+    {
+      "path": "foundations/llm-agentic/alpha-grail.md",
+      "sha256": "11f467bc4d3701df9eb97772a5bd860ea5296e1622e35e4f5da5db63f335c946"
+    },
+    {
+      "path": "foundations/llm-agentic/alphaagents.md",
+      "sha256": "0ef0c1ab3769f03f1979868336f242a5e7519592133bec745584dc034a6f8890"
+    },
+    {
+      "path": "foundations/llm-agentic/alphabench.md",
+      "sha256": "3a7d1efda6a54caada2acbdf49419386e2e7913ef8e9613f0532c00db0f9661a"
+    },
+    {
+      "path": "foundations/llm-agentic/art-34.md",
+      "sha256": "e60ee78df4484f717fd2209f4defdafc30bb71743cfb61201c8639e245805d10"
+    },
+    {
+      "path": "foundations/llm-agentic/art-416.md",
+      "sha256": "dd575ac40c4e5729ee23c5343015ce4c76676fc29172acdd9b51defe569397fe"
+    },
+    {
+      "path": "foundations/llm-agentic/asi-arch.md",
+      "sha256": "edf510ac32e713b56a54be6cf35ede9d493d8762340da02df5ad198f65b4df76"
+    },
+    {
+      "path": "foundations/llm-agentic/auto-alpha.md",
+      "sha256": "7357a5e5a78409601a1ec9b1f333c7818f20bbcd407499e0f2aa7d55a92c2688"
+    },
+    {
+      "path": "foundations/llm-agentic/autoscientist-quant.md",
+      "sha256": "b340f3268e9f5ef69610d44eac15a74f382983749be9d2062edc7f1f097e4c44"
+    },
+    {
+      "path": "foundations/llm-agentic/contesttrade.md",
+      "sha256": "d4ab366ba566a25f22cac97b175702ef6db44d182b4238e7f706eff40bff7a17"
+    },
+    {
+      "path": "foundations/llm-agentic/copbert-copgpt.md",
+      "sha256": "9c191d5f07e84769aaf6e88afb2cb18b18a3c5a31437647d255494f6ecc0d126"
+    },
+    {
+      "path": "foundations/llm-agentic/deepanalyze.md",
+      "sha256": "70f74da8773255df64e62f7fac7b3fb9b9ee61006f1c3b02142434017aefd08e"
+    },
+    {
+      "path": "foundations/llm-agentic/deepfund.md",
+      "sha256": "d26057727f2e44c44a62cb8d77ad006071bf624dc33c71ee72ba77de33f1bdda"
+    },
+    {
+      "path": "foundations/llm-agentic/ecc-analyzer.md",
+      "sha256": "16a0030d21eb4daec2407567990ac4cf05b5ef4794317ee96850e689bb9d4ee6"
+    },
+    {
+      "path": "foundations/llm-agentic/finagent.md",
+      "sha256": "ebeac425fbf5b773c019239b6c18da4fab415d55fca40435c6dae93173d2ec56"
+    },
+    {
+      "path": "foundations/llm-agentic/finbert-llm-gpt-5-4-mini-claude-sonnet-4-ridge.md",
+      "sha256": "8f5c403243bb8964ed00346d73ff06f1290e323da71b889e820bf9e308e02b1f"
+    },
+    {
+      "path": "foundations/llm-agentic/finbert-llm-prompting.md",
+      "sha256": "a6b2cf40b4e736bcaa2fdbce72b4699874232edd9d43e8cc7f2f6aa7a87c643e"
+    },
+    {
+      "path": "foundations/llm-agentic/finbloom.md",
+      "sha256": "c55b5642beeab7b5235e3221f185a6454dcc767b2b36b939128fb9b048cad171"
+    },
+    {
+      "path": "foundations/llm-agentic/fincon.md",
+      "sha256": "0eb79c2a13e54fa2738c1ee72d069282919d0a5e45dfca9fc9e04d2ee7b38a87"
+    },
+    {
+      "path": "foundations/llm-agentic/finrllama.md",
+      "sha256": "74926d362b04c8cbe7a01b4d5e730ec044d427917400eb1b6d46e529bc85a1f6"
+    },
+    {
+      "path": "foundations/llm-agentic/finrobot.md",
+      "sha256": "20e48bed8e93dccd71ca150e83e99c49008d10f793a1165073d2c49247ff9d0a"
+    },
+    {
+      "path": "foundations/llm-agentic/finsight.md",
+      "sha256": "5c051132af1e87bca5e902fe61031cd41cb7df524f15bc447c0780d4564bb85a"
+    },
+    {
+      "path": "foundations/llm-agentic/finvision.md",
+      "sha256": "1b62c12be03504096c34d5dd7b4c02c85d5e7d226c60453ee6d521fbdcc7c386"
+    },
+    {
+      "path": "foundations/llm-agentic/gpt-4-1-mini-finbert-local-projections.md",
+      "sha256": "9f446eea0e573e75ffdc1c28f8cfe38d0b8c7443e1ce45375aeca74e86f71118"
+    },
+    {
+      "path": "foundations/llm-agentic/graphrag.md",
+      "sha256": "d357121c59c4b454734c8a5d5c2de940129f5c4503706fa45e833e7117312909"
+    },
+    {
+      "path": "foundations/llm-agentic/grounded-event-extraction-system.md",
+      "sha256": "f0d2d2df657a666d29544f192f1e9dcf3460a68989b99dd569949f013e718453"
+    },
+    {
+      "path": "foundations/llm-agentic/hedgeagents.md",
+      "sha256": "55e5756acb18cd122769ceaa3e5c9336f14e10ab88978488f245917afa7f01c0"
+    },
+    {
+      "path": "foundations/llm-agentic/hybridrag.md",
+      "sha256": "00100132563269435882ca796b202cb2d8e5360282cc8ba0b0e44a82752b3f00"
+    },
+    {
+      "path": "foundations/llm-agentic/kag.md",
+      "sha256": "239dd6af34c9ce4f905a0a562cc6acbcf072ba2628d429ac7c63e04af219b51b"
+    },
+    {
+      "path": "foundations/llm-agentic/llamalens.md",
+      "sha256": "945e29a9c44f2dbff2dd384f742fb1b26199f0dbf3c4b29db2452ae50b53fd83"
+    },
+    {
+      "path": "foundations/llm-agentic/llm-end-to-end-trading.md",
+      "sha256": "5ed10068ccf2995aec2dc9e0f66460b69c925880c21c7627a73a663782f29a53"
+    },
+    {
+      "path": "foundations/llm-agentic/llm-financial-sentiment.md",
+      "sha256": "ed1ca522390e64d13414e032c55d43293c3e50caf923554e7407747f18a0a356"
+    },
+    {
+      "path": "foundations/llm-agentic/llm-news-to-forecast.md",
+      "sha256": "b00bd527ddf23419ab0b34dfc302d70c6261d6193b394ea0637f1674bb02e82d"
+    },
+    {
+      "path": "foundations/llm-agentic/llmfactor.md",
+      "sha256": "903143a9d090e73a087b5185bc0f43a5a886eccb33d711d319e179bc1b7afd12"
+    },
+    {
+      "path": "foundations/llm-agentic/llmoe.md",
+      "sha256": "eaecac939a96aa3ca9b3eaa7be61ff33ffa87bb1e87df90441d726991d7356ba"
+    },
+    {
+      "path": "foundations/llm-agentic/llms.md",
+      "sha256": "b12207e54eb317c6096f663ed636d14a9e2c33d87bf353b7190f3916cd8915a2"
+    },
+    {
+      "path": "foundations/llm-agentic/logic-rl.md",
+      "sha256": "22ae2b76ac7d2a253a4365cdeb66448a2f34339761f788be643dccdacc4a7ec6"
+    },
+    {
+      "path": "foundations/llm-agentic/mass.md",
+      "sha256": "e89fc57a030b35a77c94b7ba9ddff89e7a6fa4672bb5a6c2fd11acec4a7d0f86"
+    },
+    {
+      "path": "foundations/llm-agentic/moa.md",
+      "sha256": "e71bf9bac5cbe4aaba873abe96d8714d0579c6d7a631191a9223776b0e5d80da"
+    },
+    {
+      "path": "foundations/llm-agentic/one-shot-em.md",
+      "sha256": "c8a475df3b04099a186b7edb42981fa3490ff3f5bfa67c248f6316d86ee68ba6"
+    },
+    {
+      "path": "foundations/llm-agentic/ou-llm.md",
+      "sha256": "72f26e8199a9cd8123c8e69a6b73d9af963199da90e6a56528f02dee86f5ef77"
+    },
+    {
+      "path": "foundations/llm-agentic/overview.md",
+      "sha256": "2f3571bbd747676fa86666268a7c6e92c9b1566a23923bc46431688917c5439c"
+    },
+    {
+      "path": "foundations/llm-agentic/pokerskill.md",
+      "sha256": "35142c3dff6349af2106c3c9ab95d3ff06f26461853f54c1998559c3711e22c3"
+    },
+    {
+      "path": "foundations/llm-agentic/pptagent.md",
+      "sha256": "40de0d26c01d4ba62f0adc34f56a5542bf98f3b168ce95b7e0d33e11a666b2af"
+    },
+    {
+      "path": "foundations/llm-agentic/quantagent.md",
+      "sha256": "76d9501b6120d0dad733dbb1c21c8a7f51325dc34620c087c48b48fdbafebd74"
+    },
+    {
+      "path": "foundations/llm-agentic/rag-mcp.md",
+      "sha256": "70852b95cd4ea10bed07152c38efc0400a025eddb3c1262827e06d36a55a9756"
+    },
+    {
+      "path": "foundations/llm-agentic/rd-agent-q.md",
+      "sha256": "692953f64c01bf0ef09373e1468407fca3959b214fe376208bacb1280b9c52c0"
+    },
+    {
+      "path": "foundations/llm-agentic/skillopt.md",
+      "sha256": "0bb5a19e68a5f6e300855f5bda41335107bd1b1816693d854ba4f402824084aa"
+    },
+    {
+      "path": "foundations/llm-agentic/steward.md",
+      "sha256": "7fe0b854a89c0e69ed0a0e22016268096f31e535a79019917b93a6ad0a2d6690"
+    },
+    {
+      "path": "foundations/llm-agentic/stockagent.md",
+      "sha256": "5ce8ec28cd45134368f612b334b5358417939106a471a4e462f03923c97faa36"
+    },
+    {
+      "path": "foundations/llm-agentic/susgen-gpt.md",
+      "sha256": "ca13fb88e411099ab3b3a3fd280aeed6b2b4f321b53dc9070a93d3c9d0dd533c"
+    },
+    {
+      "path": "foundations/llm-agentic/timi.md",
+      "sha256": "2178bbc66b50ba1e5ad7a10da8ea5c9e707fc7eb2e1e09e5aef36e9e34337744"
+    },
+    {
+      "path": "foundations/llm-agentic/tradingagents.md",
+      "sha256": "4983bdd231ac4a20d7515fc322289f936754e25049bc49701637f9f99750184c"
+    },
+    {
+      "path": "foundations/llm-agentic/trr.md",
+      "sha256": "5963216800c7325fa784874f1d5a5ca1f9686945c212b24b52efd2d2d281eb44"
+    },
+    {
+      "path": "foundations/llm-agentic/vibe-trading.md",
+      "sha256": "8e4dc485904cb6f82b90b6aa3f3e24970192dca41004f951aca209d05688dc81"
+    },
+    {
+      "path": "foundations/llm-agentic/when-news-gets-old-portfolio-allocation-with-reinforcement-learning-and-large-language-models.md",
+      "sha256": "55a80c431128753e5b7353f9cb2182300e09b4c88ae1164e01a72af00730eee5"
+    },
+    {
+      "path": "foundations/llm-agentic/xalpha.md",
+      "sha256": "85d89f5ec8b8e2516c6c62b6a3fd2ed2d52987310943c564ecc07b98ef570420"
+    },
+    {
+      "path": "foundations/market-microstructure/alpha.md",
+      "sha256": "197430b0f100d6e11a3aadaf5e505a3a738303e9f5fcd37b9b303359526cbebc"
+    },
+    {
+      "path": "foundations/market-microstructure/art-11.md",
+      "sha256": "6bd82dadbf2ae04e0bcad51b8b0bc60010a1da3fa708e411cd75add2c48e131d"
+    },
+    {
+      "path": "foundations/market-microstructure/art-118.md",
+      "sha256": "c1803129c71761a65a74f1c7e0e5f0bb43607b068ac72569f59f46945328492d"
+    },
+    {
+      "path": "foundations/market-microstructure/art-171.md",
+      "sha256": "91d4cecf2c7464dc592b7445584a96d6c9e085c32ad7ab09abd011b5b71c73c6"
+    },
+    {
+      "path": "foundations/market-microstructure/art-311.md",
+      "sha256": "a6b4e3daf3316fe776dcb6334ff836c788cf5d56f83b30530f7ea10990163e95"
+    },
+    {
+      "path": "foundations/market-microstructure/art-330.md",
+      "sha256": "27b216e7c9c419cb880debd894e0e5836564244325959b64b617cc3fb321013b"
+    },
+    {
+      "path": "foundations/market-microstructure/art-332.md",
+      "sha256": "77a718d8aca1d0d5bd2510465730d7ea776580bd6fcdb45e6d50b4f8411ad9c2"
+    },
+    {
+      "path": "foundations/market-microstructure/art-333.md",
+      "sha256": "34899a0637026ab73c68b21d97d561afb4ecf194200b2b07e7f1d8e9885befc1"
+    },
+    {
+      "path": "foundations/market-microstructure/art-363.md",
+      "sha256": "6b4bdacdbc7b75b5146f49351757e28fa20abf2df3daea553f7f628497542b45"
+    },
+    {
+      "path": "foundations/market-microstructure/art-395.md",
+      "sha256": "34ca3ba50bf22d657dc87b8d4e777f7eceabe9273c212135aa14e9d390c6607f"
+    },
+    {
+      "path": "foundations/market-microstructure/art-420.md",
+      "sha256": "20d5eaf03219bf793f2de50e9fc6de6243751116d4ac7d519613c6e79488b98a"
+    },
+    {
+      "path": "foundations/market-microstructure/attn-lob.md",
+      "sha256": "59847bf56cd8a179b512c49c75163ac91efba28e9a2f8543c3d32aa685b83928"
+    },
+    {
+      "path": "foundations/market-microstructure/autocorrelation-map.md",
+      "sha256": "6bf9ac606c2d85a0eabcbd2811f7ebacfa536265cb4603a7d8cfc51a3f8d9892"
+    },
+    {
+      "path": "foundations/market-microstructure/beyond-anonymous-order-flow-wallet-identity-as-a-feature-for-short-horizon-return-prediction.md",
+      "sha256": "4e62b0cf29f1c4df74178759125810aa938bc9c28c5cc834df09172911a8d228"
+    },
+    {
+      "path": "foundations/market-microstructure/clusterlob.md",
+      "sha256": "3cd77d4d0076e52aa69fea6e0c79bd602544acb657ce162cc7d94cbf34f751e3"
+    },
+    {
+      "path": "foundations/market-microstructure/coherent-set-convex-hull-integer-programming-arbitrage.md",
+      "sha256": "866f50e9fbdf555b20d4d2c3ba501a84756f9d0aff12711496245e5ea4679942"
+    },
+    {
+      "path": "foundations/market-microstructure/coi.md",
+      "sha256": "5d0386f3c6305c979a541c622b364ad0d518af96d617258ce8672ee124c0fb76"
+    },
+    {
+      "path": "foundations/market-microstructure/concave-impact-hurst-scaled-execution-framework.md",
+      "sha256": "6ca3cff1564fa56f4e36973abab0b47396b4a1cb96b7b7a98feef90049758bb5"
+    },
+    {
+      "path": "foundations/market-microstructure/detecting-unusual-trading-patterns-on-cryptocurrency-exchanges-by-means-of-complexity-measures.md",
+      "sha256": "d456d0905013f61fc8e1a4d9fc3bc5bb7542d8c255bf7ffafe4ad00ee68d2be3"
+    },
+    {
+      "path": "foundations/market-microstructure/edge.md",
+      "sha256": "3e3553fe1b2d52842143baf7fc947636f86df67c034964b0a7d1b39eb4d2088c"
+    },
+    {
+      "path": "foundations/market-microstructure/extra-trees.md",
+      "sha256": "1b2bd103b9c85de53ab1f2eb62d1ab71213b0261a67ddc4c91f01838129e07f4"
+    },
+    {
+      "path": "foundations/market-microstructure/fifo.md",
+      "sha256": "3f824b43e361c81753a6f2888d389d2bc2ec8c3bf6e3ce091868827b8aa55b63"
+    },
+    {
+      "path": "foundations/market-microstructure/flowhft.md",
+      "sha256": "cfca8ea38c3ce802e83b01c363b43ad814c3bcdaa775c79fb44b002ab2d699da"
+    },
+    {
+      "path": "foundations/market-microstructure/hawkes-1ms.md",
+      "sha256": "34a0f0c4f7a102088e28874e035b09ae61f6f19b68539db6443d0bd331f3d439"
+    },
+    {
+      "path": "foundations/market-microstructure/hawkes-lob-ppo-sil.md",
+      "sha256": "9cd3885363707a8ef5a5b1998a7565bd349770a876d007cc62364076768a3c0b"
+    },
+    {
+      "path": "foundations/market-microstructure/hlob.md",
+      "sha256": "79f69f90f6fe928cbd4cc7c5e989bc0058bf3cd97b131994257e19d5849e1513"
+    },
+    {
+      "path": "foundations/market-microstructure/jax-lob.md",
+      "sha256": "9b552bc32c0d6467b37b9c0c4fe8787d442e21ee157d01f835d2bd2b04c6ad88"
+    },
+    {
+      "path": "foundations/market-microstructure/l2-liquidity-state-transition.md",
+      "sha256": "3d1e16350c6e98e9e54d0428a84eb796569a75abcb69f76729bdc882e75e7339"
+    },
+    {
+      "path": "foundations/market-microstructure/lob.md",
+      "sha256": "6399fb9d62cb8fc68d5538e764712f423129be65024ae724d0cd508ca566fb0c"
+    },
+    {
+      "path": "foundations/market-microstructure/mdi-gd-rbfnn.md",
+      "sha256": "8779878ce64f44534d0b0269108a39d07a01baae9f2b96e4ff77d611f66f85dc"
+    },
+    {
+      "path": "foundations/market-microstructure/mds-metric-dependence-screening.md",
+      "sha256": "772af75e1b4e72833e2d13949af66d19cf92a00002318b6045078594c9465ef3"
+    },
+    {
+      "path": "foundations/market-microstructure/optm-lstm.md",
+      "sha256": "b9d4891f020b9062080b556e138e79cd4563f8aefe4a9b247206cb5b3ebedc7d"
+    },
+    {
+      "path": "foundations/market-microstructure/order-flow-explanatory-power.md",
+      "sha256": "c8a998a399f145972537772dc38cda6d445bd0b59ab0ac5732f6284804aad763"
+    },
+    {
+      "path": "foundations/market-microstructure/orderflowdit.md",
+      "sha256": "c4b3184db296d1647890365abf39808f03501ab33c7832b29380e30f87d72b21"
+    },
+    {
+      "path": "foundations/market-microstructure/overview.md",
+      "sha256": "2cf69e8aeadd67eaee6812dcc6524da55a4b4defa5ecadd9dac4da1d701ca17b"
+    },
+    {
+      "path": "foundations/market-microstructure/phase-diagram-abm-with-null-artefact-discipline.md",
+      "sha256": "0587fc839354dee6fc7ef73c45209fb82c2c2f0c63e2ea0e4c3644d7b514c47b"
+    },
+    {
+      "path": "foundations/market-microstructure/pvar.md",
+      "sha256": "bc50cd10432965e7bbd49be4074a8e29567638e67f460ea93592e5fcb3705376"
+    },
+    {
+      "path": "foundations/market-microstructure/spide.md",
+      "sha256": "95bfe28bf8cd0f447de7c0b7f6d4b69b1ae8ca4545f38db5fdab1973cb357466"
+    },
+    {
+      "path": "foundations/market-microstructure/state-dependent-hawkes-process-sdhp.md",
+      "sha256": "6aebecae04fc75020734e86a0c2225107840a1d8a8c2376fd06d73790504136b"
+    },
+    {
+      "path": "foundations/market-microstructure/stochastic-optimal-control-with-reputation-gates.md",
+      "sha256": "49bc1a4d02406c901d3c3ada873e7ce4a2efcd8c0794ed3ab528485656c278fd"
+    },
+    {
+      "path": "foundations/market-microstructure/tick-size.md",
+      "sha256": "b34f290a5ddce9569cdf117e3b563e6e7f38a03fcdf0d923e750efccbe80d968"
+    },
+    {
+      "path": "foundations/market-microstructure/tlob.md",
+      "sha256": "fd4d15aff957438df768da33d7269adf5ea17e9c84f042f562319d1cc0a9a4ba"
+    },
+    {
+      "path": "foundations/market-microstructure/vanishing-index-effect.md",
+      "sha256": "3d68e44da12398a5d5fa8eaf7c9fc0401d9703b57545fd6cc300322bdc607466"
+    },
+    {
+      "path": "foundations/market-microstructure/wgan-eggroll.md",
+      "sha256": "fe719b94fda7277bc38a494b78ce46e4a3ef6f9cc01f7bd5b6f434c41dd19a16"
+    },
+    {
+      "path": "foundations/overview.md",
+      "sha256": "d85540fdfb0c615dbe7f13e6f21cb4c6807b2394ed8c5f49acedcf897803cbad"
+    },
+    {
+      "path": "foundations/portfolio-optimization/2024-jfqa-1-n.md",
+      "sha256": "796e350af816c00a63619b02491d33ef38af9d5b20671f22ba374a106d80dda7"
+    },
+    {
+      "path": "foundations/portfolio-optimization/a-new-input-convex-neural-network-with.md",
+      "sha256": "934bffeaba07f5bfd46525df628c01ce87e870a15cc427352d4f028f83fd1b87"
+    },
+    {
+      "path": "foundations/portfolio-optimization/agca.md",
+      "sha256": "1932afa30f2f96c25f7848387fc04a033607bd6c1a98d9dc8b162a116c06172c"
+    },
+    {
+      "path": "foundations/portfolio-optimization/alphagat.md",
+      "sha256": "e1e46cc0b20d6aea927d6661e00f78170e2df4f34b05ea26a1697db038209c6d"
+    },
+    {
+      "path": "foundations/portfolio-optimization/art-100011.md",
+      "sha256": "dd3117d4d16c617f59f0a36df6625c18a1798ee822abbb3a3b00794027086cba"
+    },
+    {
+      "path": "foundations/portfolio-optimization/art-201.md",
+      "sha256": "00f850c54100d61374beaa9df01bde7d246bb3cda87fc4b5cb708626a4261254"
+    },
+    {
+      "path": "foundations/portfolio-optimization/art-272.md",
+      "sha256": "2bcef743aef3e90c1abce07c4d471b7bdeb24ad0ecd597dd75dc9a86ffc9ca37"
+    },
+    {
+      "path": "foundations/portfolio-optimization/art-399.md",
+      "sha256": "673c9e2000d89b71f13a5dc8e2abed2db4c7694fbab8795ecccc002113266423"
+    },
+    {
+      "path": "foundations/portfolio-optimization/art-409.md",
+      "sha256": "8cfa17535ac56f392546dd75a11d4d6016f676f2b36d52be58f131e7af3f2d59"
+    },
+    {
+      "path": "foundations/portfolio-optimization/art-442.md",
+      "sha256": "6f123b4486ede6b15f130e64b91d5122818af948b5ec16b47de680e3a297353f"
+    },
+    {
+      "path": "foundations/portfolio-optimization/art-78.md",
+      "sha256": "18ed973187c1f13b81db758bf326796da7b1a6b8a5756064790304506ae77cc0"
+    },
+    {
+      "path": "foundations/portfolio-optimization/black-litterman.md",
+      "sha256": "45783806451d380589104ef1418d6a6b987fff570eb1f28842742b96eab71d79"
+    },
+    {
+      "path": "foundations/portfolio-optimization/bpqp.md",
+      "sha256": "806595534acb0a5ea025798e340e18cf80c339e43ef3c3b30ff95af2a5df859f"
+    },
+    {
+      "path": "foundations/portfolio-optimization/cgan.md",
+      "sha256": "2d034fb5ca247030914a9601f91096923cc11c7b16912f9235632d18816f6217"
+    },
+    {
+      "path": "foundations/portfolio-optimization/convex-variational-theory-of-worst-case-risk-quantile-distribution-representation-principle.md",
+      "sha256": "d7b65b0c600170baa5ed8cc44dc9f09a3592b8e2dcfdc940553d92222496cea5"
+    },
+    {
+      "path": "foundations/portfolio-optimization/ctgan-cvar.md",
+      "sha256": "529deab5dc927a05b2c9f5e6fde7e483138b307ee9d434a297139a427367fc28"
+    },
+    {
+      "path": "foundations/portfolio-optimization/dar4020.md",
+      "sha256": "b5f27facbb391672ae84506144b0a5e8eecf487067324fe31203ba9bf03de1be"
+    },
+    {
+      "path": "foundations/portfolio-optimization/deepm.md",
+      "sha256": "7806ae8406ab8da61a39ccecffdaa7e2b8274389a3a733a28b103bfda791e522"
+    },
+    {
+      "path": "foundations/portfolio-optimization/deepunifiedmom.md",
+      "sha256": "21ae30824cdb6cf046518fc4ce625f331a80adf1fb7cf521f8e4570a08e7a074"
+    },
+    {
+      "path": "foundations/portfolio-optimization/dgt.md",
+      "sha256": "fc0a21a3a27dc74407fbc441d382a6a9955ac8e496624972b310b75b623cf229"
+    },
+    {
+      "path": "foundations/portfolio-optimization/dit-lstm-svar.md",
+      "sha256": "bc3ff68da8b6f5975479405881a9b91febcad1b1052ddd46f661f746d8232ad1"
+    },
+    {
+      "path": "foundations/portfolio-optimization/dsl.md",
+      "sha256": "5639ec5dfdf4008e63eb475691d6db879a1c2382eed4fa04d231cc230f203a2d"
+    },
+    {
+      "path": "foundations/portfolio-optimization/dspo.md",
+      "sha256": "dbc90bfe88cc4e50ac1b175f146565676fbc55d5e233e187fb535dbe1c43b1f4"
+    },
+    {
+      "path": "foundations/portfolio-optimization/gat.md",
+      "sha256": "ee148f85533e4d7bdc2fb3c2c780ac650b1e98f8a47586b99026405ae7ff1433"
+    },
+    {
+      "path": "foundations/portfolio-optimization/gated-conformal-semantic-risk-control-gated-csrc.md",
+      "sha256": "d1f228495ae1180baceae4fce3e5dc111008b4c6c917c5158fc734814c2ab932"
+    },
+    {
+      "path": "foundations/portfolio-optimization/grid-fw.md",
+      "sha256": "8cca3fdc0abc20814e88c80aa596e93a4b967ea9d27b7ed613e3de80c0bc8a0b"
+    },
+    {
+      "path": "foundations/portfolio-optimization/harlf.md",
+      "sha256": "fde9c0357781fcfa7a54e3f0ba0c2a2a31ef47261eed6c66651f522183d227d5"
+    },
+    {
+      "path": "foundations/portfolio-optimization/llm-bl.md",
+      "sha256": "f9f8cf58685694f263272f96c10755887f105a95de5cb60594d106caaea76b35"
+    },
+    {
+      "path": "foundations/portfolio-optimization/llm-blm.md",
+      "sha256": "7e8dd043fa9ff1eae55fd0b9af93621ffcf73568eca2bf994d305e08fb501423"
+    },
+    {
+      "path": "foundations/portfolio-optimization/lpas.md",
+      "sha256": "cb746cffbc6a83140b74d0092cb7ab4fe7562109d5975a86bdb5f6b23b459395"
+    },
+    {
+      "path": "foundations/portfolio-optimization/masa.md",
+      "sha256": "1f3f9ae151250dc3520415a79a75c270378f59ad8aab816b3e8ae989cf8b81d0"
+    },
+    {
+      "path": "foundations/portfolio-optimization/mingle.md",
+      "sha256": "55de7d555fb2af5d24501090021eb4da6351cd55e41305ea859fe3f24481b27c"
+    },
+    {
+      "path": "foundations/portfolio-optimization/moedrlpm.md",
+      "sha256": "7f48030abd3c5e007c209a76adabb746e2c07a75086832ffc0047ac51970a88a"
+    },
+    {
+      "path": "foundations/portfolio-optimization/objective-diversification-extratrees.md",
+      "sha256": "984a7f0433c3ea0640ef456b7742806061ff0b64ab10800dc8af13a84e22ccfe"
+    },
+    {
+      "path": "foundations/portfolio-optimization/overview.md",
+      "sha256": "94ef500b439234cd5de33b9a688f1dbeda4399b83c12dccd99c41bae2573f8f3"
+    },
+    {
+      "path": "foundations/portfolio-optimization/regime-aware-multiaxial-signal-meta-layer-signal-ev-ledger.md",
+      "sha256": "d968ccefb39a3aba6fd3f13e4620eb65c4b10c13bc1a33bcac6cef7221fb2a83"
+    },
+    {
+      "path": "foundations/portfolio-optimization/rienet.md",
+      "sha256": "3a7c04722dfe1facbc1ec8a1efb8187f5e95eee857d4e0bd3c4ffabd06dd4d61"
+    },
+    {
+      "path": "foundations/portfolio-optimization/rts-pno.md",
+      "sha256": "407490d89f6fcb4767a5a6b9ed720cb8ab0d0b5863f3e96968074f1c58398d27"
+    },
+    {
+      "path": "foundations/portfolio-optimization/sciphyrl.md",
+      "sha256": "b1b5cf764813b26b5c558556af9fc7b8019ee28063aff4d833b9274868193b04"
+    },
+    {
+      "path": "foundations/portfolio-optimization/sdfl.md",
+      "sha256": "e834853ff9306ef619ec41dffb49be476783f3718ccf260a68f8cd6748658ad3"
+    },
+    {
+      "path": "foundations/portfolio-optimization/sharpe-omega-cvar.md",
+      "sha256": "a7c50fe440fc4de4590da6e69787897503c4464f772ca5e473eafa7a0f7b30ad"
+    },
+    {
+      "path": "foundations/portfolio-optimization/signature-informed-transformer-sit.md",
+      "sha256": "d638cee758b84b288b9db52b6cd88bd10fb2809d7ec9b68e19b9123466e9fc1a"
+    },
+    {
+      "path": "foundations/portfolio-optimization/stable.md",
+      "sha256": "4fece752d5af2f961144fc6f0c64823d7b81483ef9dae29794b0ef454317e875"
+    },
+    {
+      "path": "foundations/portfolio-optimization/strapsim.md",
+      "sha256": "f259197e5ff72892727c30c6e6c4df4fb994676414abbec79a5dbf6a3a8bb0fc"
+    },
+    {
+      "path": "foundations/portfolio-optimization/tln-vwap.md",
+      "sha256": "94eafcfe5fd8d91ab6e063dca77411f589eae22044824978631262cce4243e0a"
+    },
+    {
+      "path": "foundations/portfolio-optimization/yand.md",
+      "sha256": "64c902662c1d96b002c736c2b8ef3a2fcc0895269d8e9d74184f678edc72362f"
+    },
+    {
+      "path": "foundations/reinforcement-learning/agentic-rl-dqn-reinforce-shap.md",
+      "sha256": "bb524b111c6e0baaa822a144819c8db91178e76307cb4fb4cc89048a39173324"
+    },
+    {
+      "path": "foundations/reinforcement-learning/alphaquanter.md",
+      "sha256": "052ee83bacc7125c6cbbfc4636502a1f07405b83119d2d9b9bbfe7ce3a9512cc"
+    },
+    {
+      "path": "foundations/reinforcement-learning/art-187.md",
+      "sha256": "ffc3a8ac8520977736418e453c192e33a44ca9b5da80965c5ef27ac5f1ab4d0a"
+    },
+    {
+      "path": "foundations/reinforcement-learning/art-32.md",
+      "sha256": "d51411104aa8652a76a1593cf8264d909319e71b912f8d4fee4377b01fde5c15"
+    },
+    {
+      "path": "foundations/reinforcement-learning/art-359.md",
+      "sha256": "273db877f02e5d4c583791dfb757c1761c4b68c6b10947eddb58351aeffa4aa9"
+    },
+    {
+      "path": "foundations/reinforcement-learning/art-88.md",
+      "sha256": "8ac3af872f864a96b81444cccf658f27b39b0600ceee760027876c39b86220ae"
+    },
+    {
+      "path": "foundations/reinforcement-learning/auto-gov.md",
+      "sha256": "af3aab8b662075ff55b68195969755a8fa0e18df359c7e757520dfa46e644e0d"
+    },
+    {
+      "path": "foundations/reinforcement-learning/deeparies.md",
+      "sha256": "b1402681d10496febcd9055a6d141f8c0b9caefde46f5b06b65d321fad2e9ff6"
+    },
+    {
+      "path": "foundations/reinforcement-learning/deepscalper.md",
+      "sha256": "82fbc89fa8a074f01720a188e9a879cf434d7d08acfb613a573660c79decaa4a"
+    },
+    {
+      "path": "foundations/reinforcement-learning/distributional-td3-quantile-critics-empirical-replay-environment.md",
+      "sha256": "bcb88082ace797b42383c8ae3b591ddd31c1111729bcf971384aeec4f5d971f2"
+    },
+    {
+      "path": "foundations/reinforcement-learning/dqn.md",
+      "sha256": "a1dcf2038b03d8b9fe13a95bdec071b6ea39bf6c5eceafd8a9eb76718dddb08a"
+    },
+    {
+      "path": "foundations/reinforcement-learning/elicit-to-optimize-framework.md",
+      "sha256": "61702266ebbfaf94a5efbe3cfe100e93831ea48276fbc9387c3efd36f66e7828"
+    },
+    {
+      "path": "foundations/reinforcement-learning/ensemble-rl-gpu-sim.md",
+      "sha256": "61bdf1580c3dbce382fa2bdf5bfb9ed09ae0105997f8e43fa28b387ddab66b2f"
+    },
+    {
+      "path": "foundations/reinforcement-learning/finrl-deepseek.md",
+      "sha256": "4147e0349b87f00dfc351ab0f8f306a223cd140fec15daa20c83e2f158687f25"
+    },
+    {
+      "path": "foundations/reinforcement-learning/finrl-meta.md",
+      "sha256": "430ea4535318a8677b0f403f21223b494a0337d939b7712aa398ab514c27bba8"
+    },
+    {
+      "path": "foundations/reinforcement-learning/finrl.md",
+      "sha256": "d3659c0afdf148fd46e635353ea09c15a58b4e1b5a748b2e3dc2464e1f5759f5"
+    },
+    {
+      "path": "foundations/reinforcement-learning/fnn-drl.md",
+      "sha256": "1567c9033780359e00ffc0e66f6c44af7e93111c0dce18cb81f067b943a6333f"
+    },
+    {
+      "path": "foundations/reinforcement-learning/hrt.md",
+      "sha256": "9a9099245003b5aaf6069d4b6e440cf75dc9a8255487ac686ef403cfe0628939"
+    },
+    {
+      "path": "foundations/reinforcement-learning/iac-marl.md",
+      "sha256": "41dc31e08e7eb441e3134e25c00d02c0355c79b23110db2cfc9958ea3fa1eb87"
+    },
+    {
+      "path": "foundations/reinforcement-learning/irdpg.md",
+      "sha256": "51907291192f47d475146bfefe0a3deaedace35126a6bfd8e0f482ca66675bd0"
+    },
+    {
+      "path": "foundations/reinforcement-learning/jax-lob.md",
+      "sha256": "80516712d052daa40d16b381a2eb445eea87c3179b2480e3028bb41576b62dac"
+    },
+    {
+      "path": "foundations/reinforcement-learning/jaxmarl-hft.md",
+      "sha256": "e4d0fc90d6a5e6d5d9bf4f71b116060a162838a0b92a1280ce0f1f0f6d4e948e"
+    },
+    {
+      "path": "foundations/reinforcement-learning/llm-x.md",
+      "sha256": "fea6ed5bad5db565641f58d0a5b91b669cfee25ad1d7aee5169360832d1f2a3c"
+    },
+    {
+      "path": "foundations/reinforcement-learning/logic-q.md",
+      "sha256": "168894e8e930d24b51bcad4a97289968a58c5489cb6848cc8750bbbf610244dd"
+    },
+    {
+      "path": "foundations/reinforcement-learning/macrohft.md",
+      "sha256": "e2c019db2956d4fe1969dcbe5ad101d04ade64a4e2341f120b4ff90a7d98b7f6"
+    },
+    {
+      "path": "foundations/reinforcement-learning/metatrader.md",
+      "sha256": "e1fce2dda4a391845ba651f393338148bfd63cfeb362204e631cfcdc13fffe02"
+    },
+    {
+      "path": "foundations/reinforcement-learning/model-a.md",
+      "sha256": "928580ee142193c7267d8a5bec14b258101f2fc578390fe3c3779003dc24d27c"
+    },
+    {
+      "path": "foundations/reinforcement-learning/neat-python.md",
+      "sha256": "0a8e09a5a0c14f152ba139d1389eddbff24ebc1885c79a428a893ad845583dd6"
+    },
+    {
+      "path": "foundations/reinforcement-learning/neuralchaos.md",
+      "sha256": "473e46d45af9cd7991a1f0c904ce38a9c34fbd56d37b1821f975280ad78d8a30"
+    },
+    {
+      "path": "foundations/reinforcement-learning/ophr.md",
+      "sha256": "c3e2bc89457ad64b7b2f744405c6b9035e98a29606baf1aefb5ae7d5c72755ff"
+    },
+    {
+      "path": "foundations/reinforcement-learning/overview.md",
+      "sha256": "1955dfabbed62732a29928be9745339782c1c0af4e569d29bc905ae7712bc6af"
+    },
+    {
+      "path": "foundations/reinforcement-learning/ppo-hedge-fund-strategy-selection.md",
+      "sha256": "a188247f31ad0640559424993d5bcbdad2edd2ca7b23c0ec60f77dd2893983b2"
+    },
+    {
+      "path": "foundations/reinforcement-learning/protohedge.md",
+      "sha256": "64d0b5e1686638d5e284b7d7b4c2ebf15657d445e1e91a01337c749f64776cde"
+    },
+    {
+      "path": "foundations/reinforcement-learning/qtmrl.md",
+      "sha256": "9184aeb1a5598ae2613726bdd75858b38a7e00c44b684dcd7b1174665d2e5e2a"
+    },
+    {
+      "path": "foundations/reinforcement-learning/quantum-ppo-sector-rotation.md",
+      "sha256": "a995f2c5a16f81a27bd8ce23a534e3b46c36851bfaba67dea52ee9c75b8e08ff"
+    },
+    {
+      "path": "foundations/reinforcement-learning/r-sac.md",
+      "sha256": "1afef52bb2118c8457f680646eae35d09a6d42b6c2bf87c7290a0d3ae7a92475"
+    },
+    {
+      "path": "foundations/reinforcement-learning/recap.md",
+      "sha256": "ab488d14690346fe6c96b26593f4a532b14b5448fd48a97bf16376693ff6b6f6"
+    },
+    {
+      "path": "foundations/reinforcement-learning/reinforcement-learning-for-execution-under-dynamic-fees-in-a-closed-loop-dex-simulator.md",
+      "sha256": "2b5aa12b595272427cbc7edcd64afdd04df8c296430c9314e08a6c0aa4a9f421"
+    },
+    {
+      "path": "foundations/reinforcement-learning/sac-cnn-mha.md",
+      "sha256": "a694295d1330d6619cf57dc4e590af41c8e02716546734d3a88ca65ff9c3308e"
+    },
+    {
+      "path": "foundations/reinforcement-learning/sinkhorn-based-robust-rl-for-market-making.md",
+      "sha256": "dff5da929c3da3c0d4e61b21a9d0b90cb49889172bb8fbf39bd26876d43ec943"
+    },
+    {
+      "path": "foundations/reinforcement-learning/stock-evol-instruct.md",
+      "sha256": "58ab343cedc56d598e0ca06329cef1b6c2d5c4644cc3b8bf4f6ec191daecd46d"
+    },
+    {
+      "path": "foundations/reinforcement-learning/td3.md",
+      "sha256": "dbb691b3531ae40d51968fe131cedeb05589595f0eb1b30d309e3d5a2af7835a"
+    },
+    {
+      "path": "foundations/reinforcement-learning/tf-agents.md",
+      "sha256": "8a58f657cbe6339dd9788c5cdd97b0697ad6bb96e76c0cccd560f710daf0e21e"
+    },
+    {
+      "path": "foundations/reinforcement-learning/tins.md",
+      "sha256": "8283c6802be984a0e465d5cb0404cd065d1b272c35f6e5ec50d754b09443087a"
+    },
+    {
+      "path": "foundations/reinforcement-learning/trademaster.md",
+      "sha256": "7ff013fe1dd883a262805065e4a99abf89c74eb7a9d0c6af965e43fb798cdfca"
+    },
+    {
+      "path": "foundations/reinforcement-learning/trials.md",
+      "sha256": "98bb5742bb461dec1e18894819494fc1e5310b724221033a6bd404bc5210c346"
+    },
+    {
+      "path": "foundations/time-series-forecasting/add.md",
+      "sha256": "6973d54166355aa1dbad4a125f0748374feb945a17d40cd1036bdf1683f4cc9d"
+    },
+    {
+      "path": "foundations/time-series-forecasting/addmart.md",
+      "sha256": "3f5e5ef5494b3a8aca796c53d2c420b8e6cde7dfb85faa94089e554f575bbc6b"
+    },
+    {
+      "path": "foundations/time-series-forecasting/allm4ts.md",
+      "sha256": "058d0363ef6ed8a3b55ecfcded0c3a5132e880050c5422e8405d6967d708b760"
+    },
+    {
+      "path": "foundations/time-series-forecasting/arma-attention.md",
+      "sha256": "dd5cd14dbac80a55c8c3d53591d4b50038820c242473055f6946ff878f4dcceb"
+    },
+    {
+      "path": "foundations/time-series-forecasting/armd.md",
+      "sha256": "2bdaa0ab3baf60ccf9ee09bae79172ad5b7bed03610754f575b48995b49d3e7d"
+    },
+    {
+      "path": "foundations/time-series-forecasting/art-105.md",
+      "sha256": "aaf4419df1df0513f2e8742315ca6985c35f26584cd3cd8c1843192d5a0bcf58"
+    },
+    {
+      "path": "foundations/time-series-forecasting/art-146.md",
+      "sha256": "e6d37d9886e2f2f8b0bff8d221ea254513f8887504b4c88d74b6c6b0253bb4f7"
+    },
+    {
+      "path": "foundations/time-series-forecasting/art-177.md",
+      "sha256": "697a95ac4857b0a2e6bca4594178ab33cfdfab45d65a832525ef4cd20610c0f6"
+    },
+    {
+      "path": "foundations/time-series-forecasting/art-319.md",
+      "sha256": "acb17833a191e2616f474658f891a9cc0f5d62948779c2605c523f5e3bcf249a"
+    },
+    {
+      "path": "foundations/time-series-forecasting/art-36.md",
+      "sha256": "4bc08605c484ef8af6936d2f24cc3a81bd8d67971cdd63b0de1dcc1a1d1af266"
+    },
+    {
+      "path": "foundations/time-series-forecasting/art-370.md",
+      "sha256": "93bccaf3269a71a18bd03b638914e27a10a673a27b6f6be0f8b7092ffe43f3e2"
+    },
+    {
+      "path": "foundations/time-series-forecasting/art-429.md",
+      "sha256": "06c42f2760d6ed55ca7bc4d827b5faa08f39f6a7411540105bc8cce59854a2ef"
+    },
+    {
+      "path": "foundations/time-series-forecasting/bloomberg-ohlc.md",
+      "sha256": "cf9f0667beeaefbc87e289a8f69090af963614e88f8301684de7823e01936c5e"
+    },
+    {
+      "path": "foundations/time-series-forecasting/co-cpc.md",
+      "sha256": "9c1d7c09a4729152116022b4eec3d1ec3da4ab3055e19b6090273dca92876c6d"
+    },
+    {
+      "path": "foundations/time-series-forecasting/cryptopulse.md",
+      "sha256": "f316fbb647cec233cefc063db80269dd8ae930dbbb05dbe282f758d416d976dc"
+    },
+    {
+      "path": "foundations/time-series-forecasting/csm.md",
+      "sha256": "1e571a9ca098f5a198e2c3592faffc939b055174cea8f14aa1eb0192b578246a"
+    },
+    {
+      "path": "foundations/time-series-forecasting/cvae.md",
+      "sha256": "e2c0daaca8a9485246a6010ef0562b7057f5f51ae7e5c694a87a29272d427b8f"
+    },
+    {
+      "path": "foundations/time-series-forecasting/deepvol.md",
+      "sha256": "e48c25612e059e8b3595cd966c1abffaef3cc4bf6a98166342670eaefd9b995c"
+    },
+    {
+      "path": "foundations/time-series-forecasting/delphyne.md",
+      "sha256": "8713ba6c96377654ef4307ea7dfc64e66e02962db2a3f58337ca06bddac935f5"
+    },
+    {
+      "path": "foundations/time-series-forecasting/df-m.md",
+      "sha256": "8bbedd4b942365e1c5a84bf7159aa0008961b8ee187591193ce0c47ef5cfd326"
+    },
+    {
+      "path": "foundations/time-series-forecasting/dhmoe.md",
+      "sha256": "41c6b158f0dffd89177bbc948ac8e44b8a175cf838efac8b914c120cd3753421"
+    },
+    {
+      "path": "foundations/time-series-forecasting/dmmv.md",
+      "sha256": "eeeadbe6547cb6b3a7bdc3445e2df9102a0f41c6ff049f016aee35a77779e7b2"
+    },
+    {
+      "path": "foundations/time-series-forecasting/doubleadapt.md",
+      "sha256": "f55c3e5623ae6799af005dc74453a42356e1c131f058918667f7a1d3c294697e"
+    },
+    {
+      "path": "foundations/time-series-forecasting/enhancer.md",
+      "sha256": "0bcae3e4d3d8b3c39325fd74792c3722bb68efc590ce4c9a651af1c9ccf0585a"
+    },
+    {
+      "path": "foundations/time-series-forecasting/es-rnn.md",
+      "sha256": "ba69cd4681847e2f31827896c34614464e62766005ff7a1e94465a74b93de9cc"
+    },
+    {
+      "path": "foundations/time-series-forecasting/fan.md",
+      "sha256": "d7fef4d7ff6876264b4845fe7cff98f7ca35c0e81ab253c9feaa1def8dfdd1ce"
+    },
+    {
+      "path": "foundations/time-series-forecasting/fieldy.md",
+      "sha256": "e41f22359d85d20d78486f68dc3738479d9c403bd4eff141d267864895de500a"
+    },
+    {
+      "path": "foundations/time-series-forecasting/fin-gan.md",
+      "sha256": "86ac3e13bb13e29a9e4c43261c5735673bffa28be34ac39b224108bef1668002"
+    },
+    {
+      "path": "foundations/time-series-forecasting/fincast.md",
+      "sha256": "c79b64f6c87836a06b8e3af2cce4e27ef43413d1a9d86dd03af9bafbc025a87a"
+    },
+    {
+      "path": "foundations/time-series-forecasting/finin.md",
+      "sha256": "cdafc73a8b8a7dbfd6ac697d814936225aff5a629cf9b74857b4491c2ea3af63"
+    },
+    {
+      "path": "foundations/time-series-forecasting/finn.md",
+      "sha256": "4a46e7cef97f940aaf610f26892a899b1bc41e65e0f4b6465391fa938f3e77ce"
+    },
+    {
+      "path": "foundations/time-series-forecasting/finpfn.md",
+      "sha256": "4f070a6b221ac7505c8ec71a5cc7ab2c2f29c8e97967077d678fc8b4faa49c1a"
+    },
+    {
+      "path": "foundations/time-series-forecasting/freqmoe.md",
+      "sha256": "7b8ce9f2f4ab2b6449d168230eb51f3cedff216cf7dc430941b86916d7dfceda"
+    },
+    {
+      "path": "foundations/time-series-forecasting/fsatten-soatten.md",
+      "sha256": "087b369d67d3ba0a9e2881e6337d485439b84905a43592987b95f07193247775"
+    },
+    {
+      "path": "foundations/time-series-forecasting/gmm-hmm.md",
+      "sha256": "180fe43e14dfa5f65c89c691b9d66411b30ec965ebec818f0d2a43700f53eca3"
+    },
+    {
+      "path": "foundations/time-series-forecasting/gtsbot.md",
+      "sha256": "05c10f9e14769db9f81163288e805706614f37b9b03ec9c6d37d53ba994c136a"
+    },
+    {
+      "path": "foundations/time-series-forecasting/har-vix.md",
+      "sha256": "cd6e1ebbf845676fc9575e3d08c43574f2366e92a549d6726d71974e1c3cfe6c"
+    },
+    {
+      "path": "foundations/time-series-forecasting/informer.md",
+      "sha256": "f3e6d17010ef551c386e018e58b5c975c41c0a4158930e14840e8aa9b85788b1"
+    },
+    {
+      "path": "foundations/time-series-forecasting/isept.md",
+      "sha256": "603b3be2e841b01a162828885a4f43306aa75702f0335a2d5a667f8afb2d2727"
+    },
+    {
+      "path": "foundations/time-series-forecasting/kronos.md",
+      "sha256": "fce7a344b94295de65d4431840d736e0cf5c2682082dc51098910ca2c4319ce6"
+    },
+    {
+      "path": "foundations/time-series-forecasting/lightgbm.md",
+      "sha256": "47bdf688232aa04232094e54d1f31bd50c3b7024673a957ee0a43a7a98d5c5c5"
+    },
+    {
+      "path": "foundations/time-series-forecasting/lstd.md",
+      "sha256": "b09be0d00d503d462b38fb5495c46a6bd4a94bb0a4412926f82233ae12b04c14"
+    },
+    {
+      "path": "foundations/time-series-forecasting/lstm-gbm.md",
+      "sha256": "3abcda401b9a22f34357521ecd71e05bb96cdcb07135c4b2a1cdcb98a36ba874"
+    },
+    {
+      "path": "foundations/time-series-forecasting/mana-net.md",
+      "sha256": "819968410724467aab329cc9f618521c8f878a2a47904bce438482fb32d463ec"
+    },
+    {
+      "path": "foundations/time-series-forecasting/masser.md",
+      "sha256": "ac8f55edb08d7b760c1e1d4b72e67a68ccd6cb9ad8b1c29c9b7ab2fa9b056588"
+    },
+    {
+      "path": "foundations/time-series-forecasting/mci-gru.md",
+      "sha256": "b25f13e7a10b639edad0455ca3304d926b1188ea9ed7a79b368d42fa3211b507"
+    },
+    {
+      "path": "foundations/time-series-forecasting/mera.md",
+      "sha256": "2e3eed791459ea5c9c7e3526c0796fc4778c515217a39ae9014baa6c500e8aad"
+    },
+    {
+      "path": "foundations/time-series-forecasting/miga.md",
+      "sha256": "5b781595d3619fd3a28e6a29dfd2ad90131cb60995d987201213cadc29ef035d"
+    },
+    {
+      "path": "foundations/time-series-forecasting/mim-stocr.md",
+      "sha256": "b4e762185894ce119835d2e9c8d000cb465488af6c8d81bdde9ba6e32d2d00b5"
+    },
+    {
+      "path": "foundations/time-series-forecasting/mint.md",
+      "sha256": "7f348519230423d946b954a2169a8cc87ad2759ae3e1b64c1eafa64add0feda7"
+    },
+    {
+      "path": "foundations/time-series-forecasting/mits-transformer.md",
+      "sha256": "958a4ba5dafd776bbb48fea4765c067ab588241795ae95aceca1bfa8f7d0fca4"
+    },
+    {
+      "path": "foundations/time-series-forecasting/mlf.md",
+      "sha256": "e5f93f7f31ca21ab8ecd1630d0e060efafcbe302f268031726a9dc9395247952"
+    },
+    {
+      "path": "foundations/time-series-forecasting/momentum-transformer-tft.md",
+      "sha256": "e79145728e570460538d87acc8e7e6a36d932987a11d84dc15ec7bd2eac31911"
+    },
+    {
+      "path": "foundations/time-series-forecasting/msgnet.md",
+      "sha256": "b3332ab53868efb9e25288097434956dfde862b8e621e5a2cc92490f2051a350"
+    },
+    {
+      "path": "foundations/time-series-forecasting/multirc.md",
+      "sha256": "d8f060e2c225a43d9715c28bb35b4bf0405a5d30a2146f55830be305a60e3908"
+    },
+    {
+      "path": "foundations/time-series-forecasting/mwum.md",
+      "sha256": "9d57edf53309d21ee85bd5abf7c50169fd3685b045322a31ea600fb0cd2e92c5"
+    },
+    {
+      "path": "foundations/time-series-forecasting/neural-filter-estimator-nfe.md",
+      "sha256": "0f18d7fe40f2d0789916bef36a0cb947b93fc2747fa5f046b68ee613e1647323"
+    },
+    {
+      "path": "foundations/time-series-forecasting/neuralforecast-tft.md",
+      "sha256": "5a0a5a34bc56c9b217d0cc20892a3ff2afa6db5c53197d0b7e079161348580d2"
+    },
+    {
+      "path": "foundations/time-series-forecasting/ngboost.md",
+      "sha256": "d63ef5bfd968b83cd0e8e19c2cf1ed21d9e3c9f86604414e824c95e018bd23b2"
+    },
+    {
+      "path": "foundations/time-series-forecasting/nlp-crypto-multimodal.md",
+      "sha256": "6787db30492f14340245d1b2c589fedf7c6b1a4d3b211842d89681c5c93a874e"
+    },
+    {
+      "path": "foundations/time-series-forecasting/opds.md",
+      "sha256": "48feb8cd8a6d02bf1f59a5f8cd252edd24e290f605cf2ba1288acf7b5f1953a5"
+    },
+    {
+      "path": "foundations/time-series-forecasting/overview.md",
+      "sha256": "bb77e4265ef0cbedbb903f0c1ca2aedb0cac508ec4f50342ccee9397aabde4fb"
+    },
+    {
+      "path": "foundations/time-series-forecasting/portfoliomaster.md",
+      "sha256": "79d6db4c325a8ea55cc63f26557b5078f7fe278ab64d7ade9b19189577f003c1"
+    },
+    {
+      "path": "foundations/time-series-forecasting/quantformer.md",
+      "sha256": "59c2984068a57eb826ed73e1c804c4a05ec35ce6b4ce3239d4ab8ca6408e87c0"
+    },
+    {
+      "path": "foundations/time-series-forecasting/raven.md",
+      "sha256": "1ed8e142a0087d6ce7391fc7dc6d454b8d8bed886367b310aa31bc8ca5046f1a"
+    },
+    {
+      "path": "foundations/time-series-forecasting/refocus.md",
+      "sha256": "ddd813ea25cb84579e4feb92ad206b71a297247741bcdc9cc51dae61a670fe06"
+    },
+    {
+      "path": "foundations/time-series-forecasting/rff.md",
+      "sha256": "07f040bd8077af789e1f4403f89bc7b7b6988a8a9175a0dd14cfc686119c3d7e"
+    },
+    {
+      "path": "foundations/time-series-forecasting/rwkv-ts.md",
+      "sha256": "e1dd4a7877189074cb2c0273504a731cf76dc2938eccee2fdd87ffea0b5ec3ff"
+    },
+    {
+      "path": "foundations/time-series-forecasting/samba.md",
+      "sha256": "1899b48143ecb828b613e052bc6ad1ce4b33ac78994bd32d7a394831acc41fb3"
+    },
+    {
+      "path": "foundations/time-series-forecasting/sampled-rnn.md",
+      "sha256": "8b16ad633bcdb57c1fb9f90fe0714a783f3049987dfeb882e6aeb4bf71d5ca28"
+    },
+    {
+      "path": "foundations/time-series-forecasting/simstock.md",
+      "sha256": "be79ce53cd967bd6600b401f1b73a8a2630981bcfc40874322f75bc35ccc6a3b"
+    },
+    {
+      "path": "foundations/time-series-forecasting/sspt.md",
+      "sha256": "2689399176e57b4bb4a8d87dd82db7527ccc8efd626d6251adaf60353aeb17c9"
+    },
+    {
+      "path": "foundations/time-series-forecasting/stockaicloud.md",
+      "sha256": "fd5f895076224543e1d6c839dad6bbc1f22aa12f913d36198df34b3aa7234539"
+    },
+    {
+      "path": "foundations/time-series-forecasting/stockformer.md",
+      "sha256": "c1c554b4a3ed85a24274047296a8fc99a29242be9750656a17d006f08ba7f39f"
+    },
+    {
+      "path": "foundations/time-series-forecasting/stockmixer.md",
+      "sha256": "9934931f80e85f8f042af6efff2b367a07459a7080d10a980556db7f3dfacc54"
+    },
+    {
+      "path": "foundations/time-series-forecasting/tabpfn-ts.md",
+      "sha256": "0bed3f645e34516a2a970318914dfbd0b3b937ed9ad1533be1b63b983cbe8960"
+    },
+    {
+      "path": "foundations/time-series-forecasting/tabpfn.md",
+      "sha256": "5adafd55a6f15cd96b4699450216b5fcdf4a445defeeb3661632e5f1293fc84b"
+    },
+    {
+      "path": "foundations/time-series-forecasting/tempo.md",
+      "sha256": "2930eb184f8a6ad85926c55a0c34f58e3745bdf8a390a197b1cc1101349656e6"
+    },
+    {
+      "path": "foundations/time-series-forecasting/tft.md",
+      "sha256": "8deee7f916d5a6e1fd160c22a09481484aa4413e20abf89f733e674bdea91b6b"
+    },
+    {
+      "path": "foundations/time-series-forecasting/time-moe.md",
+      "sha256": "82698d1cf6c2b0cfa3c5e054cbf9f5f47015e8f69f092aad550c973456f6a653"
+    },
+    {
+      "path": "foundations/time-series-forecasting/timedart.md",
+      "sha256": "042feb869b7870e7a5f014fa5b8d83606c80125418082f9d4ccb8d226f8a9fa0"
+    },
+    {
+      "path": "foundations/time-series-forecasting/timekan.md",
+      "sha256": "4a3b69dafda77ebb08fadbc42ee2266c064d435d1c13d1b7e82a147972e537c9"
+    },
+    {
+      "path": "foundations/time-series-forecasting/timepro.md",
+      "sha256": "cdacd7efc5d707eb35f7171ee5e142189c69eda46b5f57fc0a973fa25cc8541f"
+    },
+    {
+      "path": "foundations/time-series-forecasting/timer.md",
+      "sha256": "79a53241d19680893f3133eb776a9a522f1b225cc34cfe6d95583a05ac8089f9"
+    },
+    {
+      "path": "foundations/time-series-forecasting/timesfm.md",
+      "sha256": "3a76ef996ac1e7c714dd2d02230e4228d296404629649fb93cf8e95a63fef458"
+    },
+    {
+      "path": "foundations/time-series-forecasting/timeview.md",
+      "sha256": "11fecdd3c5da89fd614cde44675c311f904e77915780d3f28d57b71c22164c59"
+    },
+    {
+      "path": "foundations/time-series-forecasting/tisfm.md",
+      "sha256": "6639b7ac1a94eae304fc84d1c457a46a556ed2fef682214db51877c7eca281b4"
+    },
+    {
+      "path": "foundations/time-series-forecasting/tpgn.md",
+      "sha256": "70149e8bc3ad62bb40f64974731987ab8278c26233a7aef5849bd87966ab4f23"
+    },
+    {
+      "path": "foundations/time-series-forecasting/transformer-madl.md",
+      "sha256": "1217da43c80538151fecd8c8f21672dc1ec9272ea0d4ac8c0f41425700761f65"
+    },
+    {
+      "path": "foundations/time-series-forecasting/twinformer.md",
+      "sha256": "e3884b3627623a20a8eba6a01d12b30561944482a64ca0d884d51f56e89b571c"
+    },
+    {
+      "path": "foundations/time-series-forecasting/vaiom.md",
+      "sha256": "90723725c6a77733e41e6a82b0aee8f50a99f46dd52bcbddc5d1518ceaa3ab61"
+    },
+    {
+      "path": "foundations/time-series-forecasting/xlstm-mixer.md",
+      "sha256": "98f12b46d784c9090f3cb15875dc6ea2f53766689ed9bf2ba278ec76011ccd05"
+    },
+    {
+      "path": "foundations/time-series-forecasting/yale.md",
+      "sha256": "c567e7cd42a5d4095f2ac16b400f523bbf1823c049b3ef7c61ac0df27fa6333e"
+    },
+    {
+      "path": "frontier/overview.md",
+      "sha256": "4dbc52b2f9fef5e37cee468ebc1ef9d330a76a28c387e30ab1fddbc3ecebe816"
+    },
+    {
+      "path": "guides/autoresearch-loop.md",
+      "sha256": "1b386cc6838de10aa0a9fc984e57c5718fc53b12436570f8af33783cce5163af"
+    },
+    {
+      "path": "guides/factor-mining.md",
+      "sha256": "9c934b98cf8d8eab65ef28a737d347c1c6467a27c4a39eb366537d816f0e11dd"
+    },
+    {
+      "path": "guides/llm-agentic.md",
+      "sha256": "9e116b0f8231b8f5949ddd457175e3fd411a3c64455bdbcf433a267819cb1a04"
+    },
+    {
+      "path": "guides/market-microstructure.md",
+      "sha256": "ce57183e8a1765b9dc1056f8d4eb2c2df965ccdb51ed43f08961c21511cf1a64"
+    },
+    {
+      "path": "guides/overview.md",
+      "sha256": "4f62951a7262ffa9fdd93b92fdfcca94a05d6b2a9eee96a3b3da1e301f25201f"
+    },
+    {
+      "path": "guides/portfolio-optimization.md",
+      "sha256": "262b89473ff6039d52331f0703ecfe86e379235c444329b506937f768a11cff9"
+    },
+    {
+      "path": "guides/reinforcement-learning.md",
+      "sha256": "3bbf045e3bff329eacd39f3452f4c28cd04ee454d4eee7ba1e276caa2f3fd6e6"
+    },
+    {
+      "path": "guides/time-series-forecasting.md",
+      "sha256": "aafd25cd2389f39bafdc0bf1531977710d0534bce7a7fb61c8713ec74371f10f"
+    },
+    {
+      "path": "radar/arxiv/2026-W29.md",
+      "sha256": "3c92f16b57b9e923e501dc427ac3eba689532c48a8860fa424994fdac4df37be"
+    },
+    {
+      "path": "radar/arxiv/2026-W43.md",
+      "sha256": "399dc2a80bc0b5140b34195cc76dd0a6d07947ed96c8f55db4cf0b9b2c856035"
+    },
+    {
+      "path": "radar/arxiv/2026-W44.md",
+      "sha256": "fce193b818db893754f2c2a727087922421ae1aac32df126af35fc6c306299a2"
+    },
+    {
+      "path": "radar/arxiv/2026-W45.md",
+      "sha256": "10ef5dcc1e260008875708cd9252228df3e69af828b6b7c4b9b3ec9dd58ff9f8"
+    },
+    {
+      "path": "radar/arxiv/2026-W46.md",
+      "sha256": "8d9be48f89ebd8f1b6d827baf2c3eaef6a939dc4a0dd5883a0867874d02755ef"
+    },
+    {
+      "path": "radar/arxiv/2026-W47.md",
+      "sha256": "5735b2244bd4af142fe23237dcb3774632275651dc33a4bd7e9e6147fb71ed53"
+    },
+    {
+      "path": "radar/arxiv/overview.md",
+      "sha256": "db29dc27a1cea140c5a95416e415afa2b013a3f073417c99bb24db17448bc913"
+    },
+    {
+      "path": "radar/journals/2026-W30.md",
+      "sha256": "0781482b30acec08aae0c7414e6cf9851d72fc75115fd68de64dcfc4507f6c70"
+    },
+    {
+      "path": "radar/journals/2026-W31.md",
+      "sha256": "470603ebd84b17031450c3dbe412d5413d44ac5cbcb0f314cb5302a8813faa81"
+    },
+    {
+      "path": "radar/journals/2026-W32.md",
+      "sha256": "3f6fe66652efe3549679d3861155e4290d43c6d0aa79f97680b63abb217e37f8"
+    },
+    {
+      "path": "radar/journals/2026-W33.md",
+      "sha256": "a3a424652394deb93e1eb47a30a915c6849d9c2aa984c955516522fe1956ab45"
+    },
+    {
+      "path": "radar/journals/2026-W34.md",
+      "sha256": "55bb3af374343015c41fe654e22b5c08a1927370beb0ce885f5e3e95444e562a"
+    },
+    {
+      "path": "radar/journals/2026-W35.md",
+      "sha256": "8baacfcdbe4a73f176f653cc592a5cbb2aba75323e08614002bf834cae9c399c"
+    },
+    {
+      "path": "radar/journals/2026-W36.md",
+      "sha256": "7f3dc221e86872b5475b86cb4cafca6ff96448563684fd7ce2747e79d20ef6e4"
+    },
+    {
+      "path": "radar/journals/2026-W37.md",
+      "sha256": "1f568dba884205631caf47e3d43d86a9640617b4bdd60bd4367cc0ba2e5e2755"
+    },
+    {
+      "path": "radar/journals/2026-W38.md",
+      "sha256": "5b337b1fb5a9f49d23c208d4f941f9fc9612b15fed9b0fe2f19466dceee754c4"
+    },
+    {
+      "path": "radar/journals/2026-W39.md",
+      "sha256": "65140a194b0051fbc08882a3631b37e8104e66836f9085682216f814816addca"
+    },
+    {
+      "path": "radar/journals/2026-W40.md",
+      "sha256": "d42e979f27ca7e0294f40a93fb860f389f44ee44a8d0f8fff2f4bd18f9f903a4"
+    },
+    {
+      "path": "radar/journals/2026-W42.md",
+      "sha256": "349c71648051d5b72a53c6cc849f818dc219fa998f50df4783a52f73e46dc701"
+    },
+    {
+      "path": "radar/journals/2026-W43.md",
+      "sha256": "6591db2d1b9af883503d4bc0c81e27817d1a86a0d8001b65cd770862f5717ccd"
+    },
+    {
+      "path": "radar/journals/2026-W44.md",
+      "sha256": "c072d7ed9a3dc8446d0b733d071a65b531c4030ab9d2ae9838b0de142da2a0f0"
+    },
+    {
+      "path": "radar/journals/2026-W45.md",
+      "sha256": "13efbd163ef47517342e978d34ae69e04b54cab8aed02db39a4ae0d918d6bcd4"
+    },
+    {
+      "path": "radar/journals/2026-W46.md",
+      "sha256": "c22f8b3520b968bebfd11346af94d61d4baec460dc31f8ba43dd170ea45a333a"
+    },
+    {
+      "path": "radar/journals/2026-W47.md",
+      "sha256": "cc52a68cf7cded2995f486bac8824b3c8e360e2774f023d51376418df1b1e1f6"
+    },
+    {
+      "path": "radar/journals/overview.md",
+      "sha256": "b5156158a1b1d7fcdf2a7e5e204043f70cc36e3c15e42b315ad530bd5f3aa710"
+    },
+    {
+      "path": "radar/overview.md",
+      "sha256": "d1cae3001f570f048bd37c833dfa55baad2e83ee38dbdb3b93f5d3e160e901d5"
+    },
+    {
+      "path": "radar/practitioner/2026-W29.md",
+      "sha256": "a97de309caeb349d502e328b41bf1135b3de7e98a354f9f888323dd1459439ea"
+    },
+    {
+      "path": "radar/practitioner/2026-W34.md",
+      "sha256": "6936a15a2747f751e33fdc540117e5e2e71b47adbed4973fbe764b67d50d718a"
+    },
+    {
+      "path": "radar/practitioner/2026-W42.md",
+      "sha256": "c9e5a4cb07c35f457bfdd0aa963f339201158986ceda20f96dddce4e4a037bec"
+    },
+    {
+      "path": "radar/practitioner/2026-W43.md",
+      "sha256": "ef14ec9e410b75454cb7ddfa7516d13a9d39b7b4140579da0c2ffbc881994545"
+    },
+    {
+      "path": "radar/practitioner/2026-W44.md",
+      "sha256": "4ba19ccb21ad95f0b13e856073eb53c5e7af46d88f349f4cd10a56a6326057e0"
+    },
+    {
+      "path": "radar/practitioner/2026-W45.md",
+      "sha256": "9f451e09ac00ec4ff62e14684b117c41933a1958f9ffeaf0e19468d50dc12043"
+    },
+    {
+      "path": "radar/practitioner/2026-W46.md",
+      "sha256": "b4ff0153365a077e98be49c2d67fe41aa3df23727ecdbea80aa92837c510f266"
+    },
+    {
+      "path": "radar/practitioner/2026-W47.md",
+      "sha256": "27036b4aee8373def0f625a0759f13ac38c60223044a7fc35e70f8f32201917d"
+    },
+    {
+      "path": "radar/practitioner/overview.md",
+      "sha256": "eb44aa52cd99c83db7125c19af82c7b317f40c9e7cf2a82b3decc561223e1b7f"
+    },
+    {
+      "path": "reports/deep-research/2026-07-22-autoresearch-audit.md",
+      "sha256": "345db1e342fcc4e8b7a2ea1fcfbda251dd8caf46d4d77c8e17eda73a6952d40b"
+    },
+    {
+      "path": "reports/deep-research/2026-07-24-657-trials-audited-findings.md",
+      "sha256": "9d878419b163f7cbaea6278b067c8cdbca40570d55ee6ac9e12a045050374c7d"
+    },
+    {
+      "path": "reports/overview.md",
+      "sha256": "137081cfd8b1b351739569656c580c7e01924a3a845baa7d7b8db0413d8bb896"
+    },
+    {
+      "path": "reports/philab-ledger/2026-08-06-issue-001.md",
+      "sha256": "6e80004d9e04f22fac2b5f9400359495d60eb48b48b618f53b1fe84d0c4015d5"
+    },
+    {
+      "path": "reports/philab-ledger/2026-08-07-issue-002.md",
+      "sha256": "f2cbff666a7014474c644e225dfae6cd759d25f5a695c7fc53f11b925856327d"
+    },
+    {
+      "path": "reports/philab-ledger/overview.md",
+      "sha256": "0d82cd44c3952f12b850532b4723434fa9d1edde334c951e57972632fd3db910"
+    },
+    {
+      "path": "use-cases/overview.md",
+      "sha256": "270acd4d4718123ae1ce8db3df89ec3aae6cf1f9cfa827ff96f08885f6eb2bae"
+    },
+    {
+      "path": "use-cases/philosophy-quantification.md",
+      "sha256": "25a62937feb170e087c390d80010222a06067dc6d83777d51495b285c31dd4b5"
+    }
+  ]
+}
