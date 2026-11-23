@@ -16,6 +16,7 @@ from sync_handbook import published_main, safe_label, snapshot, git as source_gi
 
 SOURCE = "https://github.com/sou350121/Trading-Handbook"
 TARGET = "https://github.com/sou350121/Trading-expert-skill.git"
+TARGET_SSH = "git@github.com:sou350121/Trading-expert-skill.git"
 GUIDE = "HANDBOOK_CURRENT.md"
 MANIFEST = "handbook-manifest.json"
 ANGLES = {"method": "方法", "evaluation": "評測", "limits": "限制", "context": "研究背景"}
@@ -123,6 +124,9 @@ def prepare(cache, baseline, head, ask):
 def run(repo, state, module, record):
     if git(repo, "remote", "get-url", "origin") != TARGET or git(repo, "status", "--porcelain"):
         raise ValueError("skill_checkout_not_clean_or_configured")
+    push_urls = git(repo, "remote", "get-url", "--push", "--all", "origin").splitlines()
+    if push_urls not in ([TARGET], [TARGET_SSH]):
+        raise ValueError("skill_push_target_invalid")
     base = remote_skill(repo)
     git(repo, "fetch", "--quiet", "origin", "refs/heads/main")
     if git(repo, "rev-parse", "FETCH_HEAD") != base:
@@ -168,7 +172,9 @@ def run(repo, state, module, record):
             revision = git(work, "rev-parse", "HEAD")
             if remote_skill(work) != base or published_main() != head:
                 raise ValueError("published_refs_changed_before_push")
-            git(work, "push", "--quiet", TARGET, f"{revision}:refs/heads/main")
+            record["stage"] = "github_push"
+            git(work, "push", "--quiet", "origin", f"{revision}:refs/heads/main")
+            record["stage"] = "github_readback"
             if remote_skill(work) != revision:
                 raise ValueError("published_revision_unverified")
             git(repo, "fetch", "--quiet", "origin", "refs/heads/main")
@@ -213,6 +219,7 @@ def main():
             revision, updated, model_used = run(repo, state, args.model_module.resolve(), record)
             record.update(status="published" if updated else "unchanged", revision=revision,
                           model_used=model_used)
+            record.pop("stage", None)
         except (OSError, ValueError, RuntimeError, subprocess.SubprocessError, ImportError) as error:
             record.update(status="failed", error=type(error).__name__)
         record["finished_at"] = dt.datetime.now(dt.timezone.utc).isoformat()
